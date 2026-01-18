@@ -1,0 +1,198 @@
+Administrative discretion; grant/exercise; scope of judicial review.
+
+1) Synopsis
+Administrative discretion is necessary for governance but must be exercised within legal limits and constitutional discipline. Judicial review controls discretion through legality, fairness, reasonableness, proportionality, and absence of mala fides.
+
+2) Introduction
+
+Discretion = choice within the framework of law, not free will.
+
+Uncontrolled discretion threatens arbitrariness.
+
+Courts police the process, not the policy merits.
+
+3) Laws/Statutes
+
+Constitution: Articles 14, 19, 21; 226/32.
+
+Enabling statutes conferring discretionary powers.
+
+4) Answer body
+
+Discretion arises where statute uses open-textured terms (satisfaction, expediency, public interest).
+
+Discretion must be exercised for proper purpose, within jurisdiction, and according to statutory policy.
+
+It must not be arbitrary; Article 14 converts discretion into structured discretion.
+
+Grounds of review: mala fides, irrelevant considerations, ignoring relevant factors, improper purpose.
+
+Courts also review procedural fairness—hearing and reasons where civil consequences occur.
+
+Reasonableness/irrationality: decisions that no reasonable authority would take are invalid.
+
+Proportionality: particularly where rights/penalties are involved, punishment/action must be commensurate.
+
+Discretion cannot be exercised under dictation; authority must apply independent mind.
+
+Policies may guide discretion, but rigid policy that excludes individual consideration can be unlawful.
+
+In contracts/tenders, courts review fairness and arbitrariness but respect administrative expertise and public interest.
+
+Judicial review thus maintains rule of law while permitting administrative choice.
+
+The objective is prevention of abuse of power, not governance by courts.
+
+5) Case laws
+
+E.P. Royappa (1974): 1974 AIR 555; (1974) 4 SCC 3 (non-arbitrariness).
+
+Barium Chemicals v Company Law Board (1966): AIR 1967 SC 295 (limits on “subjective satisfaction”).
+
+State of Punjab v Gurdial Singh (1980): AIR 1980 SC 319; (1980) 2 SCC 471 (mala fides).
+
+Tata Cellular (1994): 1996 AIR 11; (1994) 6 SCC 651 (review of discretion in contracts).
+
+Om Kumar (2001): AIR 2000 SC 3689; (2001) 2 SCC 386 (proportionality).
+
+6) Conclusion
+
+Discretion is unavoidable but must be legal and structured.
+
+Judicial review ensures discretion is not arbitrary, mala fide, or irrational.
+
+Hence discretion becomes a tool of governance, not a weapon of oppression.
+
+UNIT 4 — Q2
+Writs under Articles 32 & 226; procedure; ouster clause and effectiveness.
+
+1) Synopsis
+Writ jurisdiction is the primary constitutional remedy to control administrative action and enforce rights. Ouster clauses cannot exclude judicial review where rule of law/basic structure requires court supervision.
+
+2) Introduction
+
+Article 32 is a fundamental right remedy for fundamental rights.
+
+Article 226 is wider—“for any purpose” including legal rights.
+
+Writs ensure quick, effective public law control.
+
+3) Laws/Statutes
+
+Constitution: Articles 32, 226, 136, 14, 21.
+
+Tribunal/ousting provisions in statutes (general).
+
+4) Answer body
+
+Writs include habeas corpus, mandamus, certiorari, prohibition, quo warranto.
+
+Article 32 is focused on fundamental rights; Supreme Court’s power is guaranteed.
+
+Article 226 is broader: High Courts can issue writs for fundamental rights and other legal rights.
+
+Procedure involves showing infringement/illegality, maintainability, locus, and appropriate writ.
+
+Mandamus compels performance of public duty; certiorari quashes illegal/quasi-judicial orders; prohibition prevents excess jurisdiction.
+
+Courts generally require alternative remedy exhaustion, but not where breach is jurisdictional/natural justice/constitutional.
+
+Ouster clauses attempt to bar judicial review, but courts interpret them narrowly—review survives for ultra vires, mala fides, violation of natural justice.
+
+Judicial review is part of basic structure, hence cannot be wholly removed.
+
+Tribunalisation cannot replace constitutional courts’ supervisory role.
+
+Writs have evolved to include public law remedies like compensation in constitutional tort cases.
+
+Even private bodies performing public duties may face mandamus under Article 226.
+
+Thus writ jurisdiction is the backbone of administrative accountability.
+
+5) Case laws
+
+L. Chandra Kumar (1997): (1997) 3 SCC 261 (review/basic structure; tribunals).
+
+Minerva Mills (1980): AIR 1980 SC 1789; (1980) 3 SCC 625 (judicial review).
+
+Kihoto Hollohan v Zachillhu (1992): (1992) Supp (2) SCC 651; AIR 1993 SC 412 (ouster clause read down).
+
+Andi Mukta Sadguru v V.R. Rudani (1989): 1989 AIR 1607; (1989) 2 SCC 691 (mandamus; public duty).
+
+Rudul Sah v State of Bihar (1983): AIR 1983 SC 1086; (1983) 4 SCC 141 (compensation under Article 32).
+
+6) Conclusion
+
+Writs are the most effective constitutional control tool over administration.
+
+Ouster clauses cannot destroy core judicial review.
+
+Hence Articles 32 and 226 secure rule of law and accountability.
+
+UNIT 4 — Q3
+State liability in Contract & Tort; Constitutional Tort; Promissory Estoppel; Legitimate Expectation; Proportionality.
+
+1) Synopsis
+State liability has moved from sovereign immunity towards constitutional accountability in tort and fairness in contract. Promissory estoppel, legitimate expectation, and proportionality are key doctrines ensuring trust, fairness, and measured power.
+
+2) Introduction
+
+State acts as sovereign and as contracting party; both require legal discipline.
+
+Tort liability protects individuals from wrongful state action.
+
+Modern courts grant public law compensation for rights violations.
+
+3) Laws/Statutes
+
+Constitution: Articles 14, 21, 32/226.
+
+Contract principles under general law + statutory powers.
+
+Tort principles (judge-made) + constitutional remedies.
+
+4) Answer body
+
+In contract, State must act fairly and non-arbitrarily; Article 14 constitutionalises government contracting.
+
+Courts review state contracts where decision-making is arbitrary, discriminatory, or mala fide (public law element).
+
+In tort, older doctrine recognised sovereign immunity in limited spheres; modern trend narrows immunity.
+
+Constitutional tort: where State violates fundamental rights (especially Article 21), courts award compensation as public law remedy.
+
+This is distinct from private damages; it is to vindicate constitutional rights and deter abuse.
+
+Promissory estoppel: State bound by its clear promise inducing reliance, unless overriding public interest/law prohibits.
+
+The doctrine prevents State from acting inconsistently to the prejudice of citizens in administrative dealings.
+
+Legitimate expectation: where consistent practice/promise creates expectation of fair treatment/hearing; it protects procedural fairness and non-arbitrariness.
+
+It does not guarantee outcome, but requires reasoned departure and fair process.
+
+Proportionality: administrative measures must be suitable, necessary, and balanced; especially used for penalties and rights-impacting actions.
+
+The combined effect is to constitutionalise administration: trust, fairness, and accountability.
+
+Thus, State liability and these doctrines form core judicial control of administrative action.
+
+5) Case laws
+
+Kasturi Lal v State of U.P. (1965): AIR 1965 SC 1039 (state tort immunity debate).
+
+Nilabati Behera v State of Orissa (1993): AIR 1993 SC 1960; (1993) 2 SCC 746 (constitutional tort compensation).
+
+Union of India v Anglo Afghan Agencies (1968): AIR 1968 SC 718 (promissory estoppel roots).
+
+Motilal Padampat Sugar Mills v State of U.P. (1979): AIR 1979 SC 621; (1979) 2 SCC 409 (promissory estoppel).
+
+Om Kumar v Union of India (2001): AIR 2000 SC 3689; (2001) 2 SCC 386 (proportionality).
+
+6) Conclusion
+
+The State is increasingly treated as answerable under law, not immune.
+
+Constitutional tort, estoppel, expectation, and proportionality enforce fair governance.
+
+Together, they ensure administration remains law-bound and rights-respecting.

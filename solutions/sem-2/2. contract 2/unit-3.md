@@ -1,0 +1,206 @@
+Q7. Agency: concept; creation; kinds of agents; distinguish agent vs servant (with cases)
+
+1) Synopsis (2 sentences)
+Agency is a relationship where one person is authorised to act for another, affecting the principal’s legal relations with third parties. A top answer defines agency (s.182), explains modes of creation, types of agents, and clearly distinguishes agent from servant using “control” and “authority” tests.
+
+2) Introduction (3 points)
+
+Agency enables the principal to operate through another person in trade and legal dealings.
+
+It may arise by agreement, necessity, ratification, or estoppel/holding out, depending on facts.
+
+Distinction from servant is tested by degree of control and whether the person can bind the principal to third parties.
+
+3) Laws/Statutes (3–4)
+
+ICA s.182 — definition of agent and principal.
+
+ICA ss.186–189 — express/implied authority; incidental authority.
+
+ICA ss.196–200 — ratification.
+
+ICA s.238 — effect of misrepresentation/fraud by agent in course of business.
+
+4) Answer Body (10–12 points)
+
+Definition (s.182): agent = person employed to do any act for another or represent another in dealings with third persons; principal = person for whom act is done.
+
+Core feature: agent’s acts within authority bind the principal vis-à-vis third parties.
+
+Creation by agreement: express appointment or implied from conduct/relationship/usage.
+
+Agency by necessity: law may imply authority in emergency to protect principal’s interests when communication is impossible.
+
+Agency by ratification (ss.196–200): principal may adopt an unauthorised act; ratification relates back, subject to conditions.
+
+Agency by estoppel/holding out: principal’s representation may prevent denial of agency where third party relied.
+
+Kinds of agents: general agent, special agent, mercantile agent, factor, broker, del credere agent (as treated in commercial practice).
+
+Agent vs servant: agent can create legal relations between principal and third parties; servant usually acts under employer’s control and does not bind employer contractually in the same way.
+
+Control test: servant is subject to detailed control as to manner of work; agent typically has discretion in method though bound by instructions.
+
+Remuneration and risk: servants usually wages; agents often commission; but decisive is authority to bind principal.
+
+Liability: principal is generally bound by agent’s authorised acts; employer liable for servant’s acts under vicarious principles, but agency focuses on contractual representation.
+
+Close by stating that courts look to substance over labels.
+
+5) Case Laws (5, with year & citation)
+
+Pannalal Jankidas v. Mohanlal, AIR 1951 SC 144; 1950 SCR 979.
+
+Freeman & Lockyer v. Buckhurst Park Properties (Mangal) Ltd, [1964] 2 QB 480.
+
+Watts v. W. A. & J. Wallace, (1903) 1 KB 1 (agent/servant control principles).
+
+Lloyd v. Grace, Smith & Co., [1912] AC 716 (principal liable for agent’s fraud in course).
+
+Hely-Hutchinson v. Brayhead Ltd, [1968] 1 QB 549 (implied actual authority).
+
+6) Conclusion (3 points)
+
+Agency (s.182) is about authorised representation binding the principal to third parties.
+
+Creation modes + kinds of agents must be stated with section backing and key tests.
+
+Agent vs servant distinction scores best when written via authority to bind + control test.
+
+Q8. Rights/duties of agent; principal–third party relations; extent of authority (with cases)
+
+1) Synopsis (2 sentences)
+The agent owes fiduciary and contractual duties (care, obedience, accounts), and earns rights (remuneration, indemnity, lien). Principal–third party relations depend on whether the agent acted within actual/apparent authority and whether third party had notice of limitations.
+
+2) Introduction (3 points)
+
+Agency law balances principal’s business convenience with third party protection.
+
+Scoring areas: agent’s duties (skill, loyalty, accounts), agent’s rights (remuneration/indemnity/lien), and authority (actual + apparent).
+
+A strong answer uses section order: duties → rights → authority → principal/third party consequences.
+
+3) Laws/Statutes (3–4)
+
+ICA ss.211–221 — duties: conduct business, skill/care, accounts, communication, no secret profits.
+
+ICA ss.222–225 — principal’s duty to indemnify agent.
+
+ICA ss.226–228 — principal bound by agent’s acts within authority; consequences of exceeding authority.
+
+ICA ss.237–238 — liability via unauthorised acts induced by principal; effect of agent’s fraud/misrepresentation.
+
+4) Answer Body (10–12 points)
+
+Duty to act as per principal’s directions (s.211): agent must conduct business according to instructions or prevailing custom.
+
+Duty of care and skill (s.212): agent must act with reasonable diligence and skill; negligence makes agent liable to principal.
+
+Duty to render accounts (s.213): agent must keep and produce proper accounts.
+
+Duty to communicate (s.214): in difficulty, use reasonable diligence to communicate with principal and seek instructions.
+
+No secret profit / duty of loyalty (ss.215–216): undisclosed self-dealing or secret benefit makes transaction voidable and agent liable.
+
+Right to remuneration (s.219–220): agent earns remuneration on completion unless otherwise agreed; misconduct may forfeit.
+
+Right of lien (s.221): agent may retain principal’s property until due remuneration/expenses are paid.
+
+Right to indemnity (ss.222–225): principal must indemnify agent for lawful acts and acts done in good faith under authority.
+
+Extent of authority (ss.186–189): authority may be express or implied; includes incidental acts necessary to carry out the agency.
+
+Principal bound (s.226): contracts/acts by agent within authority bind principal as if done by principal.
+
+Excess authority (ss.227–228): separable authorised part binds principal; inseparable excess may not.
+
+Apparent authority (s.237): if principal’s conduct induces belief, principal is bound towards third parties acting in good faith.
+
+5) Case Laws (5, with year & citation)
+
+Pannalal Jankidas v. Mohanlal, AIR 1951 SC 144 (agent negligence/remoteness).
+
+Freeman & Lockyer v. Buckhurst Park Properties (Mangal) Ltd, [1964] 2 QB 480 (ostensible authority).
+
+Watteau v. Fenwick, [1893] 1 QB 346 (undisclosed principal/authority reach).
+
+Keighley, Maxsted & Co. v. Durant, [1901] AC 240 (ratification limits).
+
+Lloyd v. Grace, Smith & Co., [1912] AC 716 (principal liable for agent’s fraud in course).
+
+6) Conclusion (3 points)
+
+Agent’s duties (ss.211–216) are fiduciary-heavy; rights (ss.219–225) protect agent for proper performance.
+
+Principal–third party binding effect depends on authority (actual/implied/apparent) and statutory rules (ss.226–228, 237).
+
+Writing duties → rights → authority in section sequence is the highest scoring structure.
+
+Q9. Delegation; personal liability of agent; termination of agency (with cases)
+
+1) Synopsis (2 sentences)
+Delegation is restricted by the rule “delegatus non potest delegare,” subject to recognised exceptions, and agent may incur personal liability in specific situations. Termination occurs by act of parties or operation of law (ss.201–210), with special rules where agency is coupled with interest.
+
+2) Introduction (3 points)
+
+Agency is based on trust and confidence, so delegation is not free unless justified.
+
+Personal liability is an exception to the general rule that principal is bound and agent is not.
+
+Termination is frequently tested: revocation, renunciation, death/insanity, completion, and “agency coupled with interest.”
+
+3) Laws/Statutes (3–4)
+
+ICA s.190–195 — delegation and sub-agents; responsibility for sub-agent.
+
+ICA ss.201–210 — termination and its effects/notice.
+
+ICA ss.230–233 — agent’s personal liability and enforcement by/against agent.
+
+ICA s.202 — agency coupled with interest is not revocable to prejudice such interest.
+
+4) Answer Body (10–12 points)
+
+Delegation rule: an agent cannot lawfully delegate duties requiring personal skill/confidence without authority; delegation undermines principal’s choice.
+
+Statutory framework (ss.190–195): appointment of sub-agent is permitted where authorised expressly/impliedly or by necessity/custom.
+
+Properly appointed sub-agent: acts bind principal; agent is generally not liable if due care used in selection where law permits.
+
+Unauthorised sub-agent: principal not bound; agent remains responsible and sub-agent treated as agent of the original agent.
+
+Personal liability of agent (s.230): generally agent is not personally bound, but becomes liable when contract indicates, trade usage, or principal is undisclosed/foreign etc.
+
+Agent acting for unnamed principal: third party may hold agent liable depending on representation and disclosure.
+
+Pretended agency: if agent represents authority without having it, he may be liable to third party for breach of implied warranty of authority.
+
+Termination (s.201): by revocation by principal, renunciation by agent, completion of business, death/insanity, insolvency of principal, or destruction of subject matter.
+
+Agency coupled with interest (s.202): where agent has an interest in subject matter, agency cannot be revoked to his prejudice.
+
+Notice requirement (ss.206–207): reasonable notice needed for revocation/renunciation; premature termination may cause liability.
+
+Effect as to third parties (s.208): termination is effective when agent has notice; as to third parties, when they have notice.
+
+High-score close: delegation, liability, termination together reflect agency’s trust-based architecture.
+
+5) Case Laws (5, with year & citation)
+
+Freeman & Lockyer v. Buckhurst Park Properties (Mangal) Ltd, [1964] 2 QB 480 (authority/representation).
+
+Pannalal Jankidas v. Mohanlal, AIR 1951 SC 144 (agent’s duty/culpability).
+
+Bryant, Powis & Bryant Ltd v. La Banque du Peuple, [1893] AC 170 (delegation/sub-agent principles).
+
+Smart v. Sandars, (1848) 5 CB 895 (revocation, authority/termination aspects).
+
+Rama Corp Ltd v. Proved Tin & General Investments Ltd, [1952] 2 QB 147 (warranty of authority/personal liability).
+
+6) Conclusion (3 points)
+
+Delegation is limited unless permitted by statute/custom/necessity (ss.190–195).
+
+Agent’s personal liability is exceptional and mainly arises from contract/usage/disclosure issues (ss.230–233).
+
+Termination rules (ss.201–210) must be written with notice and agency coupled with interest (s.202) to score full marks.

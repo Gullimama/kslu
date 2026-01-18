@@ -1,0 +1,206 @@
+Q4. Define bailment; kinds; rights/duties of bailor & bailee (with cases)
+
+1) Synopsis (2 sentences)
+Bailment is delivery of goods for a purpose upon a contract that the goods shall be returned/disposed of as directed when the purpose is achieved. Scoring lies in: definition (s.148), kinds, and the reciprocal duties/rights (ss.150–171).
+
+2) Introduction (3 points)
+
+Bailment is a possession-based contract; ownership may remain with bailor while possession shifts to bailee.
+
+It is central to transport, repair, storage, pawn, and custody arrangements.
+
+Examiners expect section-wise duties + standard of care + lien.
+
+3) Laws/Statutes (3–4)
+
+ICA s.148 — bailment definition.
+
+ICA ss.150–161 — duties of bailor/bailee (disclosure, care, unauthorized use, return).
+
+ICA ss.170–171 — particular and general lien.
+
+ICA s.151–152 — standard of care; absence of liability when due care taken.
+
+4) Answer Body (10–12 points)
+
+Definition (s.148): bailment = delivery of goods by one to another for some purpose, on contract that when purpose is accomplished goods shall be returned or disposed as per directions.
+
+Essentials: delivery of possession, movable goods, purpose, and obligation to return/dispose.
+
+Kinds: gratuitous vs non-gratuitous; for safe custody, carriage, repair, hire, pledge (special bailment).
+
+Bailor’s duty (s.150): disclose known faults in goods; failure makes bailor liable for resulting damage.
+
+Bailee’s duty of care (s.151): take as much care as a prudent man would take of his own goods of similar nature/value.
+
+No liability with due care (s.152): if bailee has taken due care, he is not responsible for loss/deterioration.
+
+Unauthorized use (s.154): if bailee uses goods inconsistent with contract, he becomes liable for consequences.
+
+Mixing goods (ss.155–157): consequences vary depending on consent and separability; may require compensation.
+
+Return of goods (s.160): bailee must return/deliver as directed upon completion; delay attracts responsibility (s.161).
+
+Bailee’s rights: reimbursement of necessary expenses in certain bailments; and lien—particular (s.170) and general (s.171) where applicable.
+
+Bailor’s rights: demand return; sue for conversion/damage; terminate on inconsistent use.
+
+Wrap as “reciprocal obligations” ensuring safe custody with a defined standard of care + return obligation.
+
+5) Case Laws (5, with year & citation)
+
+State of Bombay (Now Gujarat) v. Memon Mahomed Haji Hasam, AIR 1967 SC 1885; (1967) SCR (3) 938.
+
+Coggs v. Bernard, (1703) 2 Ld Raym 909 (classic bailment categories/care).
+
+Ultzen v. Nicolls, (1894) 1 QB 92 (constructive bailment).
+
+Morris v. C.W. Martin & Sons Ltd., [1966] 1 QB 716 (standard of care).
+
+Houghland v. R.R. Low (Luxury Coaches), [1962] 1 QB 694 (bailee liability principles).
+
+6) Conclusion (3 points)
+
+Bailment (s.148) is a possession transfer for purpose with a duty to return/dispose.
+
+Rights/duties revolve around disclosure, due care, proper use, and timely return, supported by lien provisions.
+
+Writing sections 150–161 + 170–171 in order is the most scoring approach.
+
+Q5. Rights of finder of goods as bailee; analyse bailment provisions (with cases)
+
+1) Synopsis (2 sentences)
+A finder of goods is treated as a bailee and must take reasonable care while gaining limited rights such as lien for expenses and, in certain cases, sale. The answer must integrate s.71 with the general bailment scheme (ss.151–152, 160–161).
+
+2) Introduction (3 points)
+
+Finders are not owners, but law imposes bailment duties to prevent misappropriation and protect true owners.
+
+The finder’s position is a statutory bailment: obligations of care + rights of reimbursement.
+
+The examiner expects s.71 + standard of care + right of lien/sale.
+
+3) Laws/Statutes (3–4)
+
+ICA s.71 — finder of goods = responsibilities of bailee.
+
+ICA s.151–152 — standard of care and exemption if due care.
+
+ICA s.168–169 — finder’s rights: lien for expenses; right to sue for reward / right of sale in limited situations.
+
+ICA s.160–161 — duty to return; liability for delay.
+
+4) Answer Body (10–12 points)
+
+Legal status (s.71): finder is placed in the position of a bailee—must act with prudence and honesty.
+
+Duty of care (s.151): safeguard goods like a prudent owner; protect against loss/deterioration.
+
+No liability if due care (s.152): if reasonable care taken, finder not liable for unavoidable loss.
+
+Duty to locate owner: finder must take reasonable steps to discover true owner; retention is only custodial, not proprietary.
+
+No unauthorized use: finder cannot use/consume goods beyond what is necessary to preserve them.
+
+Right of lien (s.168): finder may retain goods until compensated for necessary expenses incurred in preserving goods/finding owner.
+
+Right to sue for reward (s.168): if owner offers reward, finder may sue for it and retain goods until paid.
+
+Right of sale (s.169): permitted where owner cannot be found with reasonable diligence or refuses to pay lawful charges, and goods are perishable or charges are disproportionate.
+
+Return obligation: once owner established and lawful charges satisfied, finder must deliver goods; wrongful retention becomes conversion.
+
+The scheme balances public interest (return to owner) and private justice (finder reimbursed).
+
+Link to bailment: finder’s duties/rights mirror bailee’s—care, no misuse, and return with limited lien/sale rights.
+
+Close by emphasising that s.71 is the “bridge” importing bailment principles to finder situations.
+
+5) Case Laws (5, with year & citation)
+
+Hollins v. Fowler, (1875) LR 7 HL 757 (conversion principles relevant to wrongful dealing).
+
+Armory v. Delamirie, (1722) 1 Str 505 (finder’s possessory title vs all but true owner).
+
+Parker v. British Airways Board, [1982] 1 QB 1004 (finder vs occupier principles).
+
+State of Bombay (Now Gujarat) v. Memon Mahomed Haji Hasam, AIR 1967 SC 1885 (bailee duties standard).
+
+Union of India v. Amar Singh, AIR 1960 SC 233 (bailee/custody principles—used illustratively).
+
+6) Conclusion (3 points)
+
+Finder is a statutory bailee (s.71) owing duties of reasonable care and return.
+
+Finder gets limited protective rights—lien and, exceptionally, sale (ss.168–169).
+
+A high-score answer tightly weaves s.71 with bailment duties (ss.151–152) and finder rights (ss.168–169).
+
+Q6. Define pledge; distinguish from bailment; rights/duties of pawnor & pawnee (with cases)
+
+1) Synopsis (2 sentences)
+Pledge is a special bailment where goods are delivered as security for payment/performance, granting the pawnee strong remedial rights including sale after notice. The key is to write definition (s.172), difference from ordinary bailment, and rights under ss.173–176.
+
+2) Introduction (3 points)
+
+Pledge converts mere custody into security interest in goods without transferring ownership.
+
+It is commercially vital in lending, mercantile transactions, and warehousing finance.
+
+Examiners reward answers that state notice requirement before sale and the pawnee’s alternative remedies.
+
+3) Laws/Statutes (3–4)
+
+ICA s.172 — pledge definition.
+
+ICA ss.173–174 — pawnee’s rights of retainer and recovery of extraordinary expenses.
+
+ICA s.176 — pawnee’s right on default: suit + retention or sale after reasonable notice.
+
+ICA ss.178, 178A — pledge by mercantile agent / person in possession under voidable contract (where applicable).
+
+4) Answer Body (10–12 points)
+
+Definition (s.172): pledge = bailment of goods as security for payment of a debt or performance of a promise.
+
+Parties: pawnor (pledgor) delivers goods; pawnee (pledgee) receives as security.
+
+Pledge vs bailment: pledge is bailment + security purpose; ordinary bailment may be for repair, custody, carriage without security.
+
+Pawnee’s right to retain (s.173): retain goods for debt, interest, and necessary expenses as per contract.
+
+Extraordinary expenses (s.175): pawnee can recover extraordinary expenses incurred for preservation of goods from pawnor.
+
+Duty of care: pawnee as bailee must take reasonable care of pledged goods; liable for negligence.
+
+Pawnor’s right of redemption: even after default, pawnor can redeem before actual sale by paying debt/expenses.
+
+On default (s.176): pawnee may either (i) sue on debt and retain goods as collateral, or (ii) sell pledged goods after reasonable notice to pawnor.
+
+Notice is mandatory: sale without reasonable notice exposes pawnee to damages and accounting consequences.
+
+Sale proceeds: if sale proceeds exceed debt, surplus goes to pawnor; if deficit, pawnor remains liable.
+
+Title issues: pledge by non-owner may still be valid under statutory exceptions (mercantile agent, voidable possession) protecting good faith pawnee.
+
+Conclude: pledge strengthens credit while preserving ownership with pawnor until lawful sale.
+
+5) Case Laws (5, with year & citation)
+
+Lallan Prasad v. Rahmat Ali, AIR 1967 SC 1322; 1967 SCR (2) 233.
+
+Morvi Mercantile Bank Ltd. v. Union of India, AIR 1965 SC 1954 (pledge/banking principles).
+
+Bank of Bihar v. State of Bihar, (1971) 2 SCC 376 (pledge/possession enforcement).
+
+Re London & Globe Finance Corp., [1903] 1 Ch 728 (pledge/security nature).
+
+State of Bombay (Now Gujarat) v. Memon Mahomed Haji Hasam, AIR 1967 SC 1885 (bailee duty framework).
+
+6) Conclusion (3 points)
+
+Pledge (s.172) is a special bailment for security, giving the pawnee enhanced rights.
+
+The highest scoring core is s.176: suit + retention OR sale after reasonable notice, plus redemption principle.
+
+Distinguishing pledge from bailment and stating pawnee’s statutory rights (ss.173–176) secures full marks.

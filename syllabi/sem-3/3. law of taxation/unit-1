@@ -1,0 +1,206 @@
+Q1. Distinguish between Direct and Indirect taxes. Explain tax evasion, tax planning and tax avoidance with examples.
+
+1) Synopsis (2 sentences)
+Direct tax is imposed on a person in respect of income/wealth and is borne by the same person, while indirect tax is imposed on transactions/consumption and is generally passed on. Tax evasion is illegal concealment, tax avoidance is colourable but technically legal arrangement, and tax planning is legitimate structuring within law.
+
+2) Introduction (3 points)
+
+Tax is a compulsory exaction by the State for public purposes, enforceable by law.
+
+Incidence and shifting are the core tests to differentiate direct and indirect taxes.
+
+Modern taxation policy aims at equity (direct tax) and efficiency/consumption neutrality (indirect tax).
+
+3) Laws / Statutes (3–4)
+
+Constitution of India: Art. 265 (no tax except by authority of law).
+
+Seventh Schedule: Union/State taxing entries (Lists I & II) (distribution basis).
+
+Income-tax Act, 1961: charging structure via total income (conceptual basis).
+
+CGST Act, 2017: levy on “supply” (conceptual indirect tax base).
+
+4) Answer body (10–12 points)
+
+Direct tax: imposed directly on the assessee (e.g., income-tax), and burden is intended to be borne by the same person.
+
+Indirect tax: imposed on transactions/consumption (e.g., GST/customs), and tax burden is ordinarily shifted to the consumer through price.
+
+Test of incidence: direct tax attaches to person/ability to pay; indirect tax attaches to event of supply/import/consumption.
+
+Collection mechanism: direct tax uses assessment/returns/TDS, whereas indirect tax uses invoice chain, input tax credit, point-of-tax rules.
+
+Equity rationale: direct taxes are linked to progressivity and redistribution; indirect taxes are largely regressive unless rate-designed.
+
+Compliance visibility: direct tax requires disclosure of income; indirect tax is embedded in business documentation (invoices, returns).
+
+Tax evasion: illegal suppression/misrepresentation—e.g., non-reporting salary interest, fake bills, clandestine removal, undervaluation, unaccounted sales.
+
+Evasion violates Art. 265’s authority of law and statutory obligations; invites penalties/prosecution under taxing statutes.
+
+Tax planning: legitimate arrangement of affairs within law—e.g., using eligible deductions, choosing permissible business structure, proper classification under statute.
+
+Tax avoidance: arranging affairs to reduce tax via artificial devices without real commercial substance (often “colourable”).
+
+Planning is permitted because taxpayer may choose lawful alternatives; avoidance is discouraged when it defeats legislative intent.
+
+A clear exam distinction: planning = within object of law, avoidance = against object though within form, evasion = against law.
+
+5) Case laws (5 with year & reference)
+
+R.C. Jall v Union of India (1962) — AIR 1962 SC 1281 (Art. 265; tax only by authority of law).
+
+Hingir-Rampur Coal Co. v State of Orissa (1961) — AIR 1961 SC 459 (tax/fee/cess characterisation principles).
+
+State of W.B. v Kesoram Industries Ltd (2004) — (2004) 10 SCC 201 (nature of cess/tax; entries; character test).
+
+Atiabari Tea Co. v State of Assam (1961) — AIR 1961 SC 232 (Part XIII; trade & taxation).
+
+Automobile Transport (Rajasthan) Ltd v State of Rajasthan (1962) — AIR 1962 SC 1406 (regulatory/compensatory taxes; Art. 301–304).
+
+6) Conclusion (3 points)
+
+Direct taxes focus on person-based incidence, while indirect taxes focus on transaction/consumption-based incidence and shifting.
+
+Evasion is criminal/illegal, avoidance is technically legal but anti-intent, and planning is lawful optimisation.
+
+A scoring answer must show the incidence test + legality test + examples anchored in Art. 265.
+
+Q2. Discuss the Federal Base of Taxing Power under the Constitution. Explain distribution of taxing powers between Centre and States.
+
+1) Synopsis (2 sentences)
+India’s taxing power is federal and list-based, where legislative competence flows from Articles 246/246A and the Seventh Schedule. The Constitution allocates taxes through Union, State, and concurrent mechanisms plus sharing/assignment provisions.
+
+2) Introduction (3 points)
+
+Federalism in taxation balances unity of market and State fiscal autonomy.
+
+Distribution is primarily via Seventh Schedule entries, supplemented by distribution/assignment articles.
+
+GST introduces a special concurrent taxing field through Art. 246A.
+
+3) Laws / Statutes (3–4)
+
+Art. 246 + Seventh Schedule (Lists I & II) — legislative competence.
+
+Art. 265 — authority of law requirement.
+
+Art. 268–271 — levy/collection/distribution of certain duties; surcharge.
+
+Art. 246A & 269A + Art. 279A (GST allocation & Council).
+
+4) Answer body (10–12 points)
+
+The federal base means taxing powers are constitutionally enumerated, not inherent.
+
+Union List confers exclusive Parliament power over specified taxes (e.g., customs, corporation tax, certain excises—conceptually).
+
+State List reserves taxes on subjects of local/state domain (e.g., taxes on lands/buildings, certain local levies—conceptually).
+
+No tax without competence: if legislature lacks entry, tax fails for lack of legislative authority.
+
+Art. 265 ensures tax can be imposed/collected only under valid law.
+
+Inter-governmental fiscal relations are strengthened by sharing/assignment (Art. 268–270 type mechanisms).
+
+Surcharge power allows Union to impose surcharge on certain Union taxes (constitutional design for national needs).
+
+Restrictions on State taxation in inter-State context: Constitution regulates extra-territorial reach and trade barriers.
+
+GST created a structural shift: Art. 246A gives both Parliament and States power to make GST laws.
+
+For inter-State supply, Parliament has exclusive competence under Art. 246A(2) and levy/settlement under Art. 269A (IGST principle).
+
+GST Council (Art. 279A) institutionalises cooperative federalism via rate/base harmonisation.
+
+Thus, distribution works through (i) Lists, (ii) GST special field, (iii) distribution articles, (iv) constitutional limitations.
+
+5) Case laws (5 with year & reference)
+
+State of W.B. v Union of India (1963) — AIR 1963 SC 1241 (federal structure; inter-governmental relations).
+
+R.C. Jall v Union of India (1962) — AIR 1962 SC 1281 (Art. 265).
+
+Kesoram Industries (2004) — (2004) 10 SCC 201 (entry/character of impost).
+
+Atiabari Tea Co. (1961) — AIR 1961 SC 232 (trade freedom and taxes).
+
+Automobile Transport (1962) — AIR 1962 SC 1406 (reasonable restrictions/compensatory).
+
+6) Conclusion (3 points)
+
+Taxing power is allocated, enumerated, and limited—not general.
+
+GST reshaped fiscal federalism through Art. 246A/269A/279A.
+
+A complete exam answer must mention Lists + distribution articles + Part XIII limits + GST Council.
+
+Q3. Examine the scope of taxing powers of Parliament. Discuss immunity of State agencies/instrumentalities from taxation.
+
+1) Synopsis (2 sentences)
+Parliament’s taxing power is wide within Union competence and constitutionally strengthened for inter-State and national taxes, subject to constitutional limitations. State property/income enjoys limited immunity from Union taxation, but immunity is qualified and not absolute.
+
+2) Introduction (3 points)
+
+Parliamentary power is defined by constitutional entries and inter-State competence.
+
+Immunity provisions protect federal balance but allow taxation of State trading/business activities.
+
+The exam focus is the scope + exceptions + judicial approach.
+
+3) Laws / Statutes (3–4)
+
+Art. 245–246 + Seventh Schedule (Union legislative power).
+
+Art. 265 (authority of law).
+
+Art. 289 (State property/income immunity; qualified exceptions).
+
+Part XIII (Art. 301–304) (commerce clause constraints).
+
+4) Answer body (10–12 points)
+
+Parliament can levy taxes falling in the Union List and in special constitutional fields (e.g., inter-State GST via Art. 246A(2)).
+
+The scope includes creating charging provisions, machinery provisions, assessment, collection, recovery, offences, and adjudicatory forums.
+
+Parliament’s fiscal laws typically contain anti-evasion, penalty, interest, and prosecution provisions as integral machinery.
+
+Parliamentary power is subject to constitutional limitations: (i) competence, (ii) fundamental rights constraints in taxation, (iii) Part XIII trade freedom limits.
+
+Immunity doctrine: State property/income is protected against Union tax under Art. 289(1), but not where the State carries on trade/business (Art. 289(2) concept).
+
+Thus, if State instrumentalities undertake commercial activities, immunity narrows to prevent unfair advantage.
+
+Local bodies/authorities may tax within delegated fields, but delegation must remain within constitutional limits.
+
+Courts apply the pith and substance test: true nature of levy determines competence.
+
+Immunity is not a blanket shield against every fiscal imposition—it is textually bounded.
+
+For inter-State commerce related taxes, Parliament’s design must respect non-discrimination and constitutional trade balance.
+
+Judicial trend: preserve federal balance while preventing tax barriers that fragment the national market.
+
+Therefore, Parliament’s power is expansive but constitutionally structured, limited, and reviewable.
+
+5) Case laws (5 with year & reference)
+
+New Delhi Municipal Committee v State of Punjab (1997) — (1997) 7 SCC 339 (State immunity & taxation on State property; Art. 289 context).
+
+State of W.B. v Union of India (1963) — AIR 1963 SC 1241 (federal balance).
+
+R.C. Jall (1962) — AIR 1962 SC 1281 (authority of law).
+
+Atiabari Tea (1961) — AIR 1961 SC 232 (trade freedom & tax barriers).
+
+Jindal Stainless Ltd v State of Haryana (2016) — (2016) 11 SCC 1 (Part XIII; non-discriminatory taxes; inter-State trade).
+
+6) Conclusion (3 points)
+
+Parliament’s taxing power is broad but entry-controlled and limited by Part XIII + competence + Art. 265.
+
+State immunity is qualified, especially where State engages in trade/business.
+
+Strong answers show scope + machinery + exceptions + leading constitutional cases.

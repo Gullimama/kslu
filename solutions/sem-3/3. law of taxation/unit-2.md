@@ -1,0 +1,206 @@
+Q4. Define ‘Income’. Explain basis of taxation with reference to residential status and incidence of tax.
+
+1) Synopsis (2 sentences)
+“Income” is an inclusive statutory concept and the charge depends on scope of total income and residential status. Residential status determines whether income is taxed on receipt/accrual/arising in India and the incidence differs for residents and non-residents.
+
+2) Introduction (3 points)
+
+Income-tax is a direct tax on total income of a “person”.
+
+The charging scheme relies on definition + scope provisions + residence rules.
+
+Exam scoring depends on linking s.2(24) + s.5 + s.6 clearly.
+
+3) Laws / Statutes (3–4)
+
+Income-tax Act, 1961: s.2(24) (inclusive definition of income).
+
+s.4 (charging section) + s.5 (scope of total income).
+
+s.6 (residential status).
+
+Constitution Art. 265 (authority of law).
+
+4) Answer body (10–12 points)
+
+“Income” under s.2(24) is inclusive—it expands beyond ordinary meaning to cover receipts deemed as income.
+
+The basis of taxation is total income of the assessee for the previous year, charged through s.4.
+
+s.5 sets the scope: taxable income covers income received, deemed received, accruing/arising, or deemed to accrue/arise according to status.
+
+Residential status is determined under s.6 and is foundational to incidence of tax.
+
+Resident and ordinarily resident (ROR) is taxed on global income, subject to the Act.
+
+Resident but not ordinarily resident (RNOR) has restricted global taxation (typically foreign income taxed only if derived from Indian business/profession or received in India).
+
+Non-resident (NR) is taxable mainly on income received in India or accruing/arising/deemed in India.
+
+Thus, incidence of tax means “who is taxed and on what territorial basis”—and depends on residence and source/receipt rules.
+
+“Person” as taxable unit includes individuals, HUF, firm, company, AOP/BOI, local authority etc. (core conceptual definition used in Act).
+
+Classification of receipts into heads (salary/house property/business/capital gains/other sources) is computation machinery and does not dilute charge.
+
+Deeming fictions ensure anti-avoidance in cross-border contexts by treating certain income as accruing in India.
+
+A complete answer ties: Income (s.2(24)) → Charge (s.4) → Scope (s.5) → Residence (s.6).
+
+5) Case laws (5 with year & reference)
+
+CIT v B.C. Srinivasa Setty (1981) — (1981) 128 ITR 294 (SC) (capital gains computation & charging-machinery linkage principle).
+
+G. Venkataswami Naidu & Co v CIT (1959) — 35 ITR 594 (SC) (real nature/characterisation of receipt/transaction).
+
+East India Housing & Land Development Trust v CIT (1961) — 42 ITR 49 (SC) (classification under heads; income character).
+
+CIT v L.W. Russel (1964) — 53 ITR 91 (SC) (salary/perquisite principles).
+
+Dhakeswari Cotton Mills v CIT (1954) — 26 ITR 775 (SC) (assessment fairness; evidence/natural justice).
+
+6) Conclusion (3 points)
+
+“Income” is inclusive, and charge is on total income through the Act’s structured scheme.
+
+Residential status (s.6) determines territorial incidence under s.5.
+
+High-scoring answers explicitly connect s.2(24) + s.4 + s.5 + s.6.
+
+Q5. Discuss computation of income from salaries, house property, business/profession, and capital gains.
+
+1) Synopsis (2 sentences)
+Income computation is head-wise and follows specific statutory rules for each head. Salary, house property, business/profession, and capital gains are computed under distinct provisions with defined inclusions, deductions, and deeming rules.
+
+2) Introduction (3 points)
+
+The Act adopts head-wise classification to compute taxable total income.
+
+Each head has (i) charging/computation section, (ii) deductions, (iii) special deeming rules.
+
+Clear section-mapping is the key to full marks.
+
+3) Laws / Statutes (3–4)
+
+Salary: ss.15–17 (salary basis/perquisites/profits in lieu).
+
+House Property: ss.22–27 (annual value; deductions).
+
+Business/Profession: ss.28–44 (profits & gains; allowances; method).
+
+Capital Gains: ss.45–55 (transfer; computation; cost).
+
+4) Answer body (10–12 points)
+
+Salary (ss.15–17): charge arises on salary due/paid, including advance salary, and includes perquisites and profits in lieu as defined.
+
+Standard salary computation steps: identify gross salary → exempt allowances → deductions (if applicable) → taxable salary (statutory method).
+
+House Property (ss.22–27): tax is on annual value of property of which assessee is owner, excluding property used for own business/profession.
+
+Compute annual value via expected rent/actual rent framework; then allow statutory deductions (notably the standard deduction on NAV and interest on borrowed capital, subject to conditions).
+
+Business/Profession (ss.28–44): taxable profits are computed on commercial principles as modified by the Act, allowing specified deductions and disallowing prohibited expenses.
+
+Correct head selection matters: receipts must be tested whether they are business income or fall under other heads, based on real nature.
+
+Depreciation is a statutory allowance; method of accounting and computation is governed by the Act (core structure).
+
+Capital Gains (ss.45–55): charge on profits arising from transfer of a capital asset, subject to computation mechanism (full value of consideration minus cost/expenses).
+
+Classification into short-term/long-term affects computation and rate outcomes (conceptual).
+
+Certain assets have special cost/indexation/deeming rules; computation is strictly statutory.
+
+Heads are mutually exclusive in principle; if a receipt is properly classifiable under a specific head, it should be computed there.
+
+Total income equals aggregate of head-wise incomes after permissible set-offs and deductions.
+
+5) Case laws (5 with year & reference)
+
+CIT v L.W. Russel (1964) — 53 ITR 91 (SC) (salary/perquisite).
+
+East India Housing v CIT (1961) — 42 ITR 49 (SC) (house property vs business head).
+
+G. Venkataswami Naidu & Co v CIT (1959) — 35 ITR 594 (SC) (business vs investment; nature of transaction).
+
+CIT v B.C. Srinivasa Setty (1981) — 128 ITR 294 (SC) (capital gains computation principle).
+
+Dhakeswari Cotton Mills v CIT (1954) — 26 ITR 775 (SC) (best judgment/assessment fairness).
+
+6) Conclusion (3 points)
+
+Computation is section-driven and head-wise, not discretionary.
+
+High marks come from writing section mapping + steps + key inclusions/deductions.
+
+Case law supports proper classification and computation integrity.
+
+Q6. Explain assessment provisions; powers/functions of IT authorities; filing of returns; appeal & revision.
+
+1) Synopsis (2 sentences)
+Assessment is the statutory process of determining taxable income and tax liability through self-assessment and departmental assessment mechanisms. The Act creates a structured administrative hierarchy for returns, scrutiny, reassessment, collection, appeals, revision, and penalties.
+
+2) Introduction (3 points)
+
+Assessment combines charging + computation + procedure + enforcement.
+
+Returns and e-filing form the base for self-assessment and scrutiny.
+
+Appeal/revision ensures correctness and legality of tax administration.
+
+3) Laws / Statutes (3–4)
+
+s.139 (return of income; filing).
+
+s.143 (scrutiny assessment) + s.144 (best judgment).
+
+s.147 (income escaping assessment; reassessment).
+
+s.246A (appealable orders) + appellate procedure provisions (CIT(A)/ITAT scheme).
+
+4) Answer body (10–12 points)
+
+Filing of return under s.139 triggers the assessment machinery; e-filing operationalises compliance through portal-based submission.
+
+Assessment begins with self-assessment, supported by statutory verification and computation (conceptual).
+
+s.143 empowers scrutiny to determine correct income, allowing adjustments and lawful determination after due process.
+
+s.144 enables best judgment assessment where return/non-compliance justifies it, but it must be fair and reasoned.
+
+s.147 reassessment applies where income has escaped assessment, subject to procedural safeguards and recorded reasons.
+
+Income-tax authorities are statutorily appointed, forming hierarchy with defined jurisdiction and functions (assessment, investigation, penalty, recovery).
+
+Collection and recovery provisions allow demand, interest, and lawful recovery methods (conceptual).
+
+Appeals: certain orders are appealable under s.246A, enabling merits review by first appellate authority.
+
+Further appeal lies to Tribunal and higher courts on substantial questions of law (system design).
+
+Revision powers exist to correct erroneous orders or to protect revenue, within statutory limits and natural justice.
+
+Offences/penalties provisions enforce compliance; mens rea/strict liability varies by provision but statutory scheme is deterrent.
+
+A complete answer must show the return → assessment types → authorities → appeal/revision → recovery/penalty chain.
+
+5) Case laws (5 with year & reference)
+
+GKN Driveshafts (India) Ltd v ITO (2003) — (2003) 259 ITR 19 (SC) (reassessment procedure; objections).
+
+Dhakeswari Cotton Mills v CIT (1954) — 26 ITR 775 (SC) (natural justice in assessment).
+
+R.C. Jall (1962) — AIR 1962 SC 1281 (authority of law; levy/collection legality).
+
+East India Housing v CIT (1961) — 42 ITR 49 (SC) (correct head/assessment correctness).
+
+CIT v L.W. Russel (1964) — 53 ITR 91 (SC) (statutory interpretation of salary provisions in assessment).
+
+6) Conclusion (3 points)
+
+Assessment is a statutory, staged determination driven by returns and procedural safeguards.
+
+Authorities’ powers are defined and reviewable, with appeals/revision ensuring legality.
+
+Scoring answers present the entire lifecycle: return → scrutiny/best judgment/reassessment → recovery → appeal/revision → penalties.

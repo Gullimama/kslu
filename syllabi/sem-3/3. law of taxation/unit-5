@@ -1,0 +1,206 @@
+Q13. Legislative background and nature of Customs law; levy, exemption and collection of customs duties.
+
+1) Synopsis (2 sentences)
+Customs law regulates import/export, protects revenue, and controls cross-border trade through duties, restrictions, and procedures. The Customs Act, 1962 provides the framework for levy, valuation, exemptions, and collection.
+
+2) Introduction (3 points)
+
+Customs duty is a tax on import/export governed by statute and tariff.
+
+The Customs Act provides substantive levy + procedural machinery at ports/airports/ICDs.
+
+Exemptions and valuation are central to duty computation and administration.
+
+3) Laws / Statutes (3–4)
+
+Customs Act, 1962: s.12 (levy of customs duty).
+
+s.14 (valuation of imported goods).
+
+s.25 (power to grant exemption by notification).
+
+Customs Tariff Act, 1975 (rate schedule conceptually, read with Customs Act).
+
+4) Answer body (10–12 points)
+
+Customs law arises from sovereign power to regulate cross-border trade and raise revenue through duties.
+
+s.12 is the charging provision: duty is levied on goods imported into or exported from India, as per the Tariff.
+
+Levy is supported by machinery for assessment, self-assessment, reassessment, and collection at the customs station.
+
+Duty computation depends on classification, valuation, and rate.
+
+Valuation (s.14) determines assessable value as per statutory rules, ensuring uniformity and preventing undervaluation.
+
+Exemption (s.25) enables Government to exempt absolutely or conditionally in public interest, forming fiscal policy tool.
+
+Customs administration operates through notified customs ports/airports/warehouses, enabling control and deferred clearance.
+
+Import/export controls include prohibitions/restrictions under allied laws, enforced through customs checks.
+
+Collection is at the point where goods cross customs barrier and are cleared for home consumption/export.
+
+Procedural compliance (filing documents, payment, examination) is integral to lawful import/export.
+
+Non-compliance triggers confiscation/penalties/adjudication under the Act’s enforcement scheme.
+
+A complete answer shows s.12 levy + s.14 valuation + s.25 exemption + port procedure.
+
+5) Case laws (5 with year & reference)
+
+Garden Silk Mills Ltd v Union of India (1999) — (1999) 8 SCC 744; AIR 2000 SC 33 (valuation/landing charges; import completion).
+
+Collector of Customs v Nathella Sampathu Chetty (1961/62) — AIR 1962 SC 316; (1962) 3 SCR 786 (customs powers; confiscation context).
+
+East India Commercial Co. v Collector of Customs (1962) — AIR 1962 SC 1893 (customs authority/jurisdiction under import control).
+
+Kiran Spinning Mills v Collector of Customs (2000) — (2000) 10 SCC 228; AIR 2000 SC 3448 (import completion/customs barrier).
+
+Mafatlal Industries Ltd v Union of India (1997) — (1997) 5 SCC 536 (refund doctrine/undue enrichment in indirect taxes).
+
+6) Conclusion (3 points)
+
+Customs law is a revenue + regulatory regime controlling cross-border movement.
+
+Levy/exemption/collection revolve around s.12, s.14, s.25 with tariff linkage.
+
+Strong answers add valuation/exemption jurisprudence and import-completion principle.
+
+Q14. Clearance from port incl. baggage; goods by post; stores; goods in transit.
+
+1) Synopsis (2 sentences)
+Customs clearance is a controlled process ensuring lawful import/export through declarations, assessment, payment, and out-of-charge. Special procedures apply for baggage, postal imports/exports, stores on vessels/aircraft, and goods in transit.
+
+2) Introduction (3 points)
+
+Clearance is the practical enforcement of customs levy and control.
+
+Documentation (bill of entry/shipping bill) is the backbone of customs procedure.
+
+Different channels (baggage/post/transit) have tailored facilitation and safeguards.
+
+3) Laws / Statutes (3–4)
+
+Customs Act, 1962: s.46 (Bill of Entry for imports).
+
+s.50 (Shipping Bill/Bill of Export for exports).
+
+Baggage provisions under Customs Act (chapter scheme; baggage rules concept).
+
+Transit/Transhipment provisions (Act’s procedural scheme).
+
+4) Answer body (10–12 points)
+
+Import clearance begins with filing Bill of Entry (s.46) containing description, value, classification, and duty details.
+
+Proper officer undertakes assessment/self-assessment verification, examination (if required), and duty determination.
+
+On payment and compliance, goods are given out-of-charge for home consumption or warehousing.
+
+Export clearance requires Shipping Bill/Bill of Export (s.50), examination, and let-export order.
+
+Baggage: passenger baggage is assessed under baggage rules with allowances/exemptions and anti-smuggling checks.
+
+Postal imports/exports: handled through postal customs procedures, simplifying declaration and assessment.
+
+Stores: goods for consumption on vessels/aircraft are regulated to prevent diversion into domestic market without duty.
+
+Goods in transit/transhipment are allowed movement under customs control to prevent duty evasion.
+
+Warehousing facilitates deferred duty payment with controlled storage and later clearance.
+
+Customs procedure aims at balancing trade facilitation and revenue/security.
+
+Non-declaration/misdeclaration may lead to confiscation, penalty, and prosecution as per Act.
+
+Exam focus: show the document-assessment-payment-release chain and special categories.
+
+5) Case laws (5 with year & reference)
+
+Kiran Spinning Mills (2000) — (2000) 10 SCC 228; AIR 2000 SC 3448 (customs barrier/import completion).
+
+Garden Silk Mills (1999) — (1999) 8 SCC 744; AIR 2000 SC 33 (import completion/valuation).
+
+East India Commercial Co. (1962) — AIR 1962 SC 1893 (customs control & compliance).
+
+Nathella Sampathu Chetty (1962) — AIR 1962 SC 316 (customs enforcement powers).
+
+Mafatlal Industries (1997) — (1997) 5 SCC 536 (refund/assessment finality relevance).
+
+6) Conclusion (3 points)
+
+Customs clearance is a procedure-heavy control system built on declarations and assessment.
+
+Special channels (baggage/post/transit/stores) are facilitative but controlled.
+
+High scoring answers map s.46/s.50 + clearance steps + special procedures.
+
+Q15. Duty drawback; authorities/powers/functions; role of SEZ units.
+
+1) Synopsis (2 sentences)
+Duty drawback refunds specified duties on exported goods to neutralise domestic tax incidence and enhance export competitiveness. Customs authorities administer assessment, enforcement and refund mechanisms, while SEZ units operate as export-oriented enclaves with specified customs/GST benefits under special regime.
+
+2) Introduction (3 points)
+
+Drawback is an export incentive/neutralisation tool, not a general exemption.
+
+Administration depends on statutory authorities exercising powers of assessment, search, confiscation, adjudication and appeal.
+
+SEZ framework supports exports through procedural facilitation and fiscal benefits.
+
+3) Laws / Statutes (3–4)
+
+Customs Act, 1962: Drawback provisions (ss.74/75) (re-export/manufacture drawback scheme).
+
+Customs Act: authority appointment & powers (s.4 and enforcement scheme concept).
+
+SEZ Act, 2005 (SEZ unit fiscal/procedural framework).
+
+Art. 265 (refund/levy legality in tax system).
+
+4) Answer body (10–12 points)
+
+Duty drawback aims to make exports tax-neutral by rebating duties embedded in inputs/materials used in export goods.
+
+s.74 generally concerns drawback on re-export of imported goods (subject to conditions).
+
+s.75 generally concerns drawback on exported goods manufactured/processed using imported materials (statutory scheme).
+
+Drawback requires compliance with export documentation, identity of goods, time limits, and prescribed conditions.
+
+Customs authorities verify export, examine claims, and prevent fraudulent drawback by audit and investigation.
+
+Authorities include proper officers empowered for assessment, examination, seizure, confiscation, adjudication, and penalty imposition under Act.
+
+Appeals lie through statutory appellate channels, ensuring legality and procedural fairness.
+
+Refund principles (including unjust enrichment logic in indirect taxes) influence how refunds/drawbacks are processed.
+
+SEZ units operate within a special legal regime aimed at promoting exports, with customs-style control at SEZ boundary.
+
+Goods/services supplied to SEZ may receive fiscal benefits as per special law and GST framework (policy neutrality).
+
+SEZ procedures simplify movement and reduce transaction costs while maintaining customs supervision.
+
+Strong answer: define drawback, cite sections, list authority functions, connect SEZ export rationale.
+
+5) Case laws (5 with year & reference)
+
+Mafatlal Industries v Union of India (1997) — (1997) 5 SCC 536 (refund principles; indirect tax refunds).
+
+Priya Blue Industries Ltd v Commissioner of Customs (2004) — AIR 2004 SC 5115; 2004 (172) ELT 145 (SC) (refund cannot bypass assessment finality principle).
+
+East India Commercial Co. (1962) — AIR 1962 SC 1893 (customs authority jurisdiction).
+
+Garden Silk Mills (1999) — (1999) 8 SCC 744; AIR 2000 SC 33 (customs valuation/import event principles).
+
+Nathella Sampathu Chetty (1962) — AIR 1962 SC 316 (customs enforcement powers).
+
+6) Conclusion (3 points)
+
+Drawback is an export facilitation mechanism to ensure tax neutrality of exports.
+
+Customs authorities’ powers ensure proper levy, control, adjudication, and lawful refunds/drawbacks.
+
+SEZ units support exports through a special legal framework combining facilitation with regulatory control.

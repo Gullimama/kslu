@@ -1,0 +1,206 @@
+4) Cognizance powers + timelines + dismissal of complaints + commencement of proceedings
+
+1. Synopsis
+Cognizance is the judicial act of taking notice of an offence and activating court process. BNSS tightens pre-trial efficiency by prescribing structured steps and specific time duties (e.g., supply of documents).
+
+2. Introduction
+
+Cognizance marks the shift from police domain to judicial domain.
+
+Magistrate filters cases by applying mind to material, preventing frivolous prosecutions.
+
+Timelines protect Art. 21 interest in speedy justice.
+
+3. Laws/Statutes
+
+BNSS Ch. XV: cognizance by Magistrate (s.210 listed).
+
+BNSS s.226: dismissal of complaint (listed in scheme).
+
+BNSS s.230: copies to accused within 14 days from production/appearance (time-bound fairness).
+
+Constitution: Art. 21 (speedy trial).
+
+4. Answer body
+
+Cognizance means Magistrate applies judicial mind to facts to proceed under BNSS.
+
+Cognizance can arise on police report or complaint, depending on initiation route.
+
+Pre-process scrutiny prevents abuse: Magistrate examines whether basic ingredients of offence and jurisdiction exist.
+
+Dismissal of complaint is a judicial rejection when no sufficient ground exists; it protects accused from unnecessary process.
+
+Commencement of proceedings begins with issue of process (summons/warrant) after cognizance satisfaction.
+
+BNSS strengthens procedural fairness by mandating supply of police report/documents without delay and within a hard outer limit.
+
+This enables effective defence and reduces adjournment culture.
+
+Timelines also discipline prosecution/police to complete foundational steps before trial.
+
+Judicial discretion remains, but reasons/records are expected for transparency.
+
+Magistrate may postpone process and inquire/investigate further where needed, balancing victim interest and accused fairness.
+
+The pre-trial stage is thus a “quality control” checkpoint preventing weak cases from consuming trial time.
+
+A well-managed cognizance/commencement stage directly increases conviction reliability and reduces wrongful prosecution.
+
+5. Case laws (5)
+
+R.R. Chari v. State of U.P. AIR 1951 SC 207.
+
+Devarapalli Lakshminarayana Reddy v. V. Narayana Reddy (1976) 3 SCC 252.
+
+Jamuna Singh v. Bhadai Shah AIR 1964 SC 1541.
+
+Priyanka Srivastava v. State of U.P. (2015) 6 SCC 287.
+
+Bhushan Kumar v. State (NCT of Delhi) (2012) 5 SCC 424.
+
+6. Conclusion
+
+Cognizance is the judicial gateway ensuring mind-application and legality.
+
+BNSS strengthens fairness via time-bound document supply and structured pre-trial filters.
+
+Proper commencement prevents delay and protects both victim and accused rights.
+
+5) Framing of charge + joinder of charges + compel appearance/production including electronic means + securing successor presence
+
+1. Synopsis
+Charge framing crystallizes the accusation and defines the scope of trial, while joinder rules prevent multiplicity without prejudicing defence. BNSS modernizes compulsion processes through electronic service and continuity through successors-in-office.
+
+2. Introduction
+
+“Charge” is the trial’s blueprint—without it, evidence becomes directionless.
+
+Joinder balances efficiency against prejudice.
+
+Process provisions ensure court orders are executable in real life.
+
+3. Laws/Statutes
+
+BNSS Ch. XIX–XX (charges/joinder—scheme).
+
+BNSS s.64 proviso & s.71: electronic service of summons.
+
+BNSS s.29: successors-in-office exercise powers/duties (continuity).
+
+Constitution: Art. 21 (fair notice and defence opportunity).
+
+4. Answer body
+
+Framing of charge means the court identifies specific offence(s) and informs the accused with clarity of essential particulars.
+
+Standard: at charge stage, court evaluates whether there is ground for presuming commission, not proof beyond reasonable doubt.
+
+Proper charge ensures accused can prepare defence and prevents surprise at trial.
+
+Joinder of charges allows trial of connected offences/transactions together to avoid duplication.
+
+Limits exist because excessive joinder can prejudice defence and confuse fact-finding.
+
+Process to compel appearance starts with summons, escalates to warrant, and further coercive steps if evasion occurs.
+
+BNSS expressly recognizes summons service through electronic communication (court seal image; prescribed manner).
+
+Electronic service strengthens speed and reduces deliberate avoidance, but proof of service must still be preserved.
+
+Courts can compel production of documents/things through summons/orders to produce, enabling evidence collection.
+
+Successor-in-office provision ensures proceedings do not collapse due to transfer/retirement of judicial officers.
+
+This continuity principle prevents re-hearing burdens unless fairness demands otherwise.
+
+Overall, BNSS blends procedural certainty (charge) with execution capability (process/e-service) and continuity (successor).
+
+5. Case laws (5)
+
+State of Bihar v. Ramesh Singh (1977) 4 SCC 39.
+
+Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4.
+
+Sajjan Kumar v. CBI (2010) 9 SCC 368.
+
+Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135.
+
+Willie (William) Slaney v. State of M.P. AIR 1956 SC 116.
+
+6. Conclusion
+
+Charge framing defines what is tried; joinder defines how efficiently it is tried.
+
+BNSS upgrades execution through electronic service and continuity via successors-in-office.
+
+These reforms reduce delay while preserving fair notice and defence.
+
+6) Preliminary pleas: plea of guilt + limitation for cognizance + bail/bonds with leading cases
+
+1. Synopsis
+Preliminary pleas can legally terminate or narrow proceedings through admission (plea of guilt) or statutory bar (limitation). Bail/bond provisions operationalize liberty with enforceable conditions.
+
+2. Introduction
+
+Preliminary pleas are “threshold controls” preventing wasteful trials.
+
+Plea of guilt must be voluntary, informed, and judicially recorded.
+
+Limitation embodies policy: stale prosecutions undermine fairness and evidence quality.
+
+3. Laws/Statutes
+
+BNSS Ch. XXXVI (Limitation) (scheme).
+
+BNSS bail/bond definitions (s.2: bail, bond, bail-bond).
+
+Constitution: Art. 21 (liberty; speedy and fair process).
+
+BNSS: appeal limits in plea bargaining show restricted appeal policy (analogy of finality).
+
+4. Answer body
+
+Plea of guilt is a procedural admission that can lead to conviction without full trial, saving time and resources.
+
+Court must ensure the plea is uncoerced, and the accused understands charge and consequences.
+
+In serious offences, courts remain cautious because wrongful admissions can occur under pressure.
+
+Limitation for taking cognizance bars courts from entertaining specified categories of offences after prescribed periods.
+
+Limitation protects accused from delayed accusations and encourages prompt prosecution.
+
+Computation typically hinges on when cognizance is taken/complaint filed as per judicial interpretation of limitation schemes.
+
+Bail is release from custody subject to conditions; it is governed by gravity, flight risk, tampering risk, and justice needs.
+
+Bonds/bail-bonds ensure future presence and compliance; forfeiture mechanisms give teeth to release.
+
+Bail discretion must harmonize “bail not jail” with protection of investigation and victim/witness safety.
+
+Courts impose proportionate conditions—excessive sureties violate equality and liberty ideals.
+
+Interim liberty must not become punishment; detention is justified only by legally relevant risks.
+
+Thus, preliminary pleas and bail/bonds are efficiency + fairness tools when applied with judicial discipline.
+
+5. Case laws (5)
+
+Sarah Mathew v. Institute of Cardio Vascular Diseases (2014) 2 SCC 62.
+
+Bharat Damodar Kale v. State of A.P. (2003) 8 SCC 559.
+
+Moti Ram v. State of M.P. (1978) 4 SCC 47.
+
+Sanjay Chandra v. CBI (2012) 1 SCC 40.
+
+Gurbaksh Singh Sibbia v. State of Punjab (1980) 2 SCC 565.
+
+6. Conclusion
+
+Preliminary pleas prevent unnecessary trials; limitation prevents stale prosecutions.
+
+Bail/bonds protect liberty while ensuring justice administration.
+
+Judicial caution and recorded reasons are key to scoring full marks.
