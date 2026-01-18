@@ -139,15 +139,15 @@ Thus, co-operative federalism + Part XIII + language provisions together secure 
 
 5) Case laws
 
-Atiabari Tea Co. v. State of Assam (1961) — AIR 1961 SC 232; (1961) 1 SCR 809
+Atiabari Tea Co. v. State of Assam (1961) AIR 1961 SC 232 — Held that Art. 301 is a constitutional guarantee and a direct & immediate restriction on trade violates it unless constitutionally saved (core Part XIII test).
 
-Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962) — AIR 1962 SC 1406; (1963) 1 SCR 491
+Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962) AIR 1962 SC 1406 — Clarified that regulatory/compensatory measures facilitating trade may not offend Art. 301, shaping the trade-restriction doctrine.
 
-Jindal Stainless Ltd. v. State of Haryana (2016) — (2016) 11 SCC 1
+Jindal Stainless Ltd. v. State of Haryana (2016) (2016) 11 SCC 1 — Reworked the approach to compensatory tax, insisting on constitutional discipline in State levies impacting free trade.
 
-S.R. Bommai v. Union of India (1994) — (1994) 3 SCC 1
+S.R. Bommai v. Union of India (1994) (1994) 3 SCC 1 — Recognised federalism as a basic feature, supporting cooperative federalism as a constitutional value.
 
-T.M.A. Pai Foundation v. State of Karnataka (2002) — (2002) 8 SCC 481 (pluralism/linguistic rights context)
+T.M.A. Pai Foundation v. State of Karnataka (2002) (2002) 8 SCC 481 — Reaffirmed the constitutional protection of linguistic/cultural pluralism, relevant to language policy balancing unity and diversity.
 
 6) Conclusion
 
@@ -204,15 +204,15 @@ Hence, local self-government and special provisions together reflect constitutio
 
 5) Case laws
 
-Sampat Prakash v. State of J&K (1969) — (1969) 1 SCC 562
+Sampat Prakash v. State of J&K (1969) (1969) 1 SCC 562 — Upheld the continuing operation of Art. 370 mechanisms, supporting the “special arrangement” discussion.
 
-Mohd. Maqbool Damnoo v. State of J&K (1972) — (1972) 1 SCC 536
+Mohd. Maqbool Damnoo v. State of J&K (1972) (1972) 1 SCC 536 — Validated constitutional adaptations in J&K’s governance framework, illustrating asymmetric integration.
 
-In Re: Article 370 of the Constitution (2023) — 2023 INSC 1058; 2023 SCC OnLine SC 1647
+In Re: Article 370 (2023) 2023 SCC OnLine SC 1647 — Upheld the 2019 constitutional actions relating to Art. 370 and clarified its present constitutional status, crucial for contemporary articulation.
 
-Kuldip Nayar v. Union of India (2006) — (2006) 7 SCC 1 (federal features)
+Kuldip Nayar v. Union of India (2006) (2006) 7 SCC 1 — Discussed federal character and constitutional design, supporting why special provisions can coexist with national unity.
 
-Rameshwar Prasad v. Union of India (2006) — (2006) 2 SCC 1 (federal democracy)
+Rameshwar Prasad v. Union of India (2006) (2006) 2 SCC 1 — Emphasised democracy/federal balance and judicial control, useful for explaining limits on political manipulation of constitutional structures.
 
 6) Conclusion
 

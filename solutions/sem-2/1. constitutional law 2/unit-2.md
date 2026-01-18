@@ -45,15 +45,15 @@ Overall, the model ensures responsible government under constitutional supremacy
 
 5) Case laws
 
-Shamsher Singh v. State of Punjab (1974) — AIR 1974 SC 2192
+Shamsher Singh v. State of Punjab (1974) AIR 1974 SC 2192 — Held President/Governor normally act on aid and advice, confirming they are constitutional heads.
 
-Ram Jawaya Kapur v. State of Punjab (1955) — AIR 1955 SC 549
+Ram Jawaya Kapur v. State of Punjab (1955) AIR 1955 SC 549 — Explained the working of parliamentary executive and executive power within constitutional limits.
 
-Nabam Rebia v. Dy. Speaker (2016) — (2016) 8 SCC 1
+Nabam Rebia v. Deputy Speaker (2016) (2016) 8 SCC 1 — Restricted gubernatorial discretion and protected legislative processes, reinforcing responsible government norms.
 
-Rameshwar Prasad v. Union of India (2006) — (2006) 2 SCC 1
+Rameshwar Prasad v. Union of India (2006) (2006) 2 SCC 1 — Judicially scrutinised dissolution/constitutional breakdown claims, supporting limits on executive intervention.
 
-Kuldip Nayar v. Union of India (2006) — (2006) 7 SCC 1
+Kuldip Nayar v. Union of India (2006) (2006) 7 SCC 1 — Upheld legislative arrangements consistent with federalism, supporting bicameral/federal rationale.
 
 6) Conclusion
 
@@ -108,15 +108,15 @@ Thus, the doctrine translates constitutional form into responsible governance.
 
 5) Case laws
 
-Shamsher Singh (1974) — AIR 1974 SC 2192
+Shamsher Singh (1974) AIR 1974 SC 2192 — Reinforced that real executive power is exercised through the Council of Ministers, aligning with collective responsibility.
 
-U.N.R. Rao v. Indira Gandhi (1971) — (1971) 2 SCC 63
+U.N.R. Rao v. Indira Gandhi (1971) (1971) 2 SCC 63 — Clarified constitutional necessity of a functioning Council/PM framework for parliamentary governance.
 
-S.R. Bommai (1994) — (1994) 3 SCC 1
+S.R. Bommai (1994) (1994) 3 SCC 1 — Strengthened legislative confidence principles and federal democracy, supporting why CoM must remain accountable.
 
-Nabam Rebia (2016) — (2016) 8 SCC 1
+Nabam Rebia (2016) (2016) 8 SCC 1 — Protected the floor-test/legislative confidence logic central to collective responsibility.
 
-Rameshwar Prasad (2006) — (2006) 2 SCC 1
+Rameshwar Prasad (2006) (2006) 2 SCC 1 — Condemned unconstitutional dissolution, reinforcing that executive legitimacy flows from the House.
 
 6) Conclusion
 
@@ -167,15 +167,15 @@ Thus, executive relations must preserve State autonomy while maintaining constit
 
 5) Case laws
 
-S.R. Bommai (1994) — (1994) 3 SCC 1
+S.R. Bommai (1994) (1994) 3 SCC 1 — Made federalism and legislative majority principles judicially enforceable, limiting Centre’s misuse of Art. 356.
 
-Shamsher Singh (1974) — AIR 1974 SC 2192
+Shamsher Singh (1974) AIR 1974 SC 2192 — Confirms aid-and-advice model at both levels, shaping Centre–State executive functioning.
 
-Rameshwar Prasad (2006) — (2006) 2 SCC 1
+Rameshwar Prasad (2006) (2006) 2 SCC 1 — Applied strict scrutiny to breakdown claims, preserving State autonomy and democratic process.
 
-Nabam Rebia (2016) — (2016) 8 SCC 1
+Nabam Rebia (2016) (2016) 8 SCC 1 — Curbed unconstitutional gubernatorial steps, reinforcing parliamentary democracy at State level.
 
-B.P. Singhal v. Union of India (2010) — (2010) 6 SCC 331
+B.P. Singhal v. Union of India (2010) (2010) 6 SCC 331 — Held Governor removal cannot be arbitrary, reinforcing constitutional morality in Centre–State relations.
 
 6) Conclusion
 

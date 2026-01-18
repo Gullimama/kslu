@@ -39,15 +39,15 @@ The net effect is independent justice + accountable administration.
 
 5) Case laws
 
-L. Chandra Kumar v. Union of India (1997) — (1997) 3 SCC 261
+L. Chandra Kumar v. Union of India (1997) (1997) 3 SCC 261 — Held judicial review by HC/SC is part of basic structure; tribunals cannot replace constitutional courts.
 
-Chandra Mohan v. State of U.P. (1966) — AIR 1966 SC 1987
+Chandra Mohan v. State of U.P. (1966) AIR 1966 SC 1987 — Protected independence of district judiciary by insisting on constitutional separation from executive influence.
 
-Union of India v. Tulsiram Patel (1985) — (1985) 3 SCC 398
+Union of India v. Tulsiram Patel (1985) (1985) 3 SCC 398 — Explained Art. 311 safeguards and exceptions, key for “constitutional protection” of civil servants.
 
-Parshotam Lal Dhingra v. Union of India (1958) — AIR 1958 SC 36
+Parshotam Lal Dhingra v. Union of India (1958) AIR 1958 SC 36 — Distinguished dismissal/removal/reduction and clarified when Art. 311 procedural protection applies.
 
-S.P. Sampath Kumar v. Union of India (1987) — (1987) 1 SCC 124
+S.P. Sampath Kumar v. Union of India (1987) (1987) 1 SCC 124 — Accepted tribunalisation subject to maintaining efficacy of judicial review, relevant background to tribunal framework.
 
 6) Conclusion
 
@@ -98,15 +98,15 @@ Thus, PSCs strengthen governance by combining merit + constitutional supervision
 
 5) Case laws
 
-State of U.P. v. Manbodhan Lal Srivastava (1958) — AIR 1957 SC 912
+State of U.P. v. Manbodhan Lal Srivastava (1958) AIR 1957 SC 912 — Held UPSC consultation breach does not automatically invalidate action, clarifying Art. 320’s operational effect.
 
-Union of India v. Tulsiram Patel (1985) — (1985) 3 SCC 398
+Union of India v. Tulsiram Patel (1985) (1985) 3 SCC 398 — Detailed constitutional discipline in service law and procedural protections, supporting civil service safeguards.
 
-Parshotam Lal Dhingra (1958) — AIR 1958 SC 36
+Parshotam Lal Dhingra (1958) AIR 1958 SC 36 — Foundational test on “punishment” and Article 311 applicability in service jurisprudence.
 
-Ajit Singh v. State of Punjab (1999) — (1999) 7 SCC 209
+Ajit Singh v. State of Punjab (1999) (1999) 7 SCC 209 — Important in service jurisprudence on promotion/seniority principles within constitutional equality framework.
 
-All India Judges’ Assn. v. Union of India (1992) — (1992) 1 SCC 119 (institutional standards context)
+All India Judges’ Assn. v. Union of India (1992) (1992) 1 SCC 119 — Strengthened institutional standards and service conditions (contextually useful for constitutional structuring of services).
 
 6) Conclusion
 
@@ -155,15 +155,15 @@ The trend is toward constitutional tort and compensatory justice for State wrong
 
 5) Case laws
 
-Mohinder Singh Gill v. Chief Election Commissioner (1978) — (1978) 1 SCC 405
+Mohinder Singh Gill v. Chief Election Commissioner (1978) (1978) 1 SCC 405 — Recognised EC’s wide residual powers under Art. 324 to ensure free and fair elections.
 
-T.N. Seshan v. Union of India (1995) — (1995) 4 SCC 611
+T.N. Seshan v. Union of India (1995) (1995) 4 SCC 611 — Affirmed EC’s independence and clarified internal structure/powers supporting electoral integrity.
 
-State of Rajasthan v. Vidyawati (1962) — AIR 1962 SC 933
+State of Rajasthan v. Vidyawati (1962) AIR 1962 SC 933 — Accepted State liability in tort in non-sovereign functions, an early move toward governmental accountability.
 
-Kasturi Lal v. State of U.P. (1965) — AIR 1965 SC 1039
+Kasturi Lal v. State of U.P. (1965) AIR 1965 SC 1039 — Applied sovereign function immunity in tort, used to show limits and evolution of State liability doctrine.
 
-Nilabati Behera v. State of Orissa (1993) — (1993) 2 SCC 746
+Nilabati Behera v. State of Orissa (1993) (1993) 2 SCC 746 — Awarded public law compensation for rights violation, establishing constitutional tort-style accountability.
 
 6) Conclusion
 

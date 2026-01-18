@@ -39,15 +39,15 @@ Time-bound adjudication and neutrality expectations are critical for legitimacy.
 
 5) Case laws
 
-Kihoto Hollohan v. Zachillhu (1992) — 1992 Supp (2) SCC 651
+Kihoto Hollohan v. Zachillhu (1992) 1992 Supp (2) SCC 651 — Upheld the Tenth Schedule but made Speaker’s decisions judicially reviewable on limited grounds.
 
-Raja Ram Pal v. Speaker, Lok Sabha (2007) — (2007) 3 SCC 184
+Raja Ram Pal v. Speaker, Lok Sabha (2007) (2007) 3 SCC 184 — Confirmed parliamentary privileges exist but are subject to constitutional limitations and judicial review.
 
-P.V. Narasimha Rao v. State (CBI) (1998) — (1998) 4 SCC 626 (privilege context)
+P.V. Narasimha Rao v. State (CBI) (1998) (1998) 4 SCC 626 — Interpreted privilege protections for legislative acts, illustrating privilege scope and limits.
 
-Keisham Meghachandra Singh v. Speaker (2020) — (2020) 2 SCC 577
+Keisham Meghachandra Singh v. Speaker (2020) (2020) 2 SCC 577 — Criticised delays in disqualification and urged time-bound Speaker decisions, vital for anti-defection effectiveness.
 
-Nabam Rebia (2016) — (2016) 8 SCC 1
+Nabam Rebia (2016) (2016) 8 SCC 1 — Addressed legislative procedure and the constitutional boundaries of presiding authorities, supporting Speaker neutrality principles.
 
 6) Conclusion
 
@@ -96,15 +96,15 @@ Judicial review safeguards constitutional limits and fundamental rights.
 
 5) Case laws
 
-S.P. Gupta v. Union of India (1981) — 1981 Supp SCC 87
+S.P. Gupta v. Union of India (1981) 1981 Supp SCC 87 — Early landmark on “consultation” and judicial independence, foundational to appointments discourse.
 
-Supreme Court Advocates-on-Record Assn. v. Union of India (1993) — (1993) 4 SCC 441
+Supreme Court Advocates-on-Record Assn. v. Union of India (1993) (1993) 4 SCC 441 — Established Collegium primacy in appointments to secure judicial independence.
 
-In re Presidential Reference (1998) — (1998) 7 SCC 739
+In re Presidential Reference (1998) (1998) 7 SCC 739 — Clarified collegium procedure and widened consultative base, refining appointments process.
 
-Supreme Court Advocates-on-Record Assn. v. Union of India (NJAC) (2015) — (2016) 5 SCC 1
+Supreme Court Advocates-on-Record Assn. v. Union of India (NJAC) (2015) (2016) 5 SCC 1 — Struck down NJAC as violating judicial independence/basic structure, central for appointment control.
 
-Sankalchand Himmatlal Sheth v. Union of India (1977) — (1977) 4 SCC 193
+Sankalchand Himmatlal Sheth v. Union of India (1977) (1977) 4 SCC 193 — Upheld High Court judge transfers but insisted they must not undermine independence, directly relevant to Art. 222.
 
 6) Conclusion
 
@@ -155,15 +155,15 @@ Courts use doctrines like proportionality/reasonableness to balance rights with 
 
 5) Case laws
 
-Kesavananda Bharati (1973) — (1973) 4 SCC 225
+Kesavananda Bharati (1973) (1973) 4 SCC 225 — Created Basic Structure doctrine, ensuring judicial review protects constitutional identity.
 
-Golaknath v. State of Punjab (1967) — (1967) 2 SCR 762
+Golaknath v. State of Punjab (1967) (1967) 2 SCR 762 — Treated FR as entrenched and limited amendment power (historical step in evolution).
 
-R.C. Cooper v. Union of India (1970) — (1970) 1 SCC 248
+R.C. Cooper v. Union of India (1970) (1970) 1 SCC 248 — Expanded rights review from form to effect/impact, strengthening substantive judicial review.
 
-Maneka Gandhi v. Union of India (1978) — (1978) 1 SCC 248
+Maneka Gandhi v. Union of India (1978) (1978) 1 SCC 248 — Made Art. 21 procedure require fairness/non-arbitrariness, transforming rights protection.
 
-I.R. Coelho v. State of Tamil Nadu (2007) — (2007) 2 SCC 1
+I.R. Coelho v. State of Tamil Nadu (2007) (2007) 2 SCC 1 — Held Ninth Schedule laws after 24-4-1973 are reviewable if they damage basic structure, reinforcing supremacy of review.
 
 6) Conclusion
 

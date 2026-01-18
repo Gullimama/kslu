@@ -39,15 +39,15 @@ Fundamental rights impact is severe; hence, emergency must remain constitutional
 
 5) Case laws
 
-S.R. Bommai (1994) — (1994) 3 SCC 1
+A.D.M. Jabalpur v. Shivkant Shukla (1976) (1976) 2 SCC 521 — Held (then) that habeas corpus could be suspended during emergency; later widely criticised, used to show FR vulnerability.
 
-A.D.M. Jabalpur v. Shivkant Shukla (1976) — (1976) 2 SCC 521
+Minerva Mills v. Union of India (1980) 1980 SCC (3) 625 — Reaffirmed limited amending power and basic structure, preventing emergency-style constitutional distortion.
 
-Minerva Mills (1980) — 1980 SCC (3) 625
+S.R. Bommai (1994) (1994) 3 SCC 1 — Made President’s Rule subject to judicial review and protected federalism, vital for Art. 356 limits.
 
-Rameshwar Prasad (2006) — (2006) 2 SCC 1
+Rameshwar Prasad (2006) (2006) 2 SCC 1 — Quashed unconstitutional dissolution/356-type actions, reinforcing democracy during constitutional crises.
 
-K.S. Puttaswamy v. Union of India (2017) — (2017) 10 SCC 1 (rights-core approach)
+K.S. Puttaswamy v. Union of India (2017) (2017) 10 SCC 1 — Recognised privacy and dignity-based rights reasoning, useful to argue that rights-core must be protected even under exceptional regimes.
 
 6) Conclusion
 
@@ -98,15 +98,15 @@ Structural interpretation (federalism, separation of powers, judicial independen
 
 5) Case laws
 
-Kesavananda Bharati (1973) — (1973) 4 SCC 225
+Kesavananda Bharati (1973) (1973) 4 SCC 225 — Interpreted Art. 368 purposively to create basic structure limits, a landmark interpretive method example.
 
-Maneka Gandhi (1978) — (1978) 1 SCC 248
+Maneka Gandhi (1978) (1978) 1 SCC 248 — Adopted expansive, value-based reading of Arts. 14/19/21 together, showing harmonious and purposive interpretation.
 
-R.C. Cooper (1970) — (1970) 1 SCC 248
+R.C. Cooper (1970) (1970) 1 SCC 248 — Shifted focus to effect/impact, illustrating substantive rights interpretation over formalism.
 
-Minerva Mills (1980) — 1980 SCC (3) 625
+Minerva Mills (1980) 1980 SCC (3) 625 — Used structural interpretation to protect constitutional identity and balance between Parts III and IV.
 
-I.R. Coelho (2007) — (2007) 2 SCC 1
+I.R. Coelho (2007) (2007) 2 SCC 1 — Applied basic structure review to Ninth Schedule insertions, showing interpretive control over constitutional devices.
 
 6) Conclusion
 
@@ -157,15 +157,15 @@ The Constitution is thus maintained through a cycle of amendment + adjudication 
 
 5) Case laws
 
-Kesavananda Bharati (1973) — (1973) 4 SCC 225
+Kesavananda Bharati (1973) (1973) 4 SCC 225 — Established Basic Structure doctrine, limiting Art. 368 and anchoring amendment validity.
 
-Indira Nehru Gandhi v. Raj Narain (1975) — 1975 Supp SCC 1
+Indira Nehru Gandhi v. Raj Narain (1975) 1975 Supp SCC 1 — Struck at amendments undermining free elections/judicial review, showing basic structure application.
 
-Minerva Mills (1980) — 1980 SCC (3) 625
+Minerva Mills (1980) 1980 SCC (3) 625 — Invalidated clauses that destroyed limited amending power, reaffirming constitutional supremacy.
 
-Waman Rao v. Union of India (1981) — (1981) 2 SCC 362
+Waman Rao v. Union of India (1981) (1981) 2 SCC 362 — Laid down the 24-4-1973 cut-off approach for Ninth Schedule/basic structure interaction.
 
-I.R. Coelho (2007) — (2007) 2 SCC 1
+I.R. Coelho (2007) (2007) 2 SCC 1 — Held post-Kesavananda Ninth Schedule laws are reviewable if they damage basic structure, crucial for “Schedules + amendment limits.”
 
 6) Conclusion
 
