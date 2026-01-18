@@ -1,0 +1,204 @@
+Specific performance — when granted / not granted; who may obtain and against whom. (Specific Relief Act, 1963)
+
+    Synopsis
+
+        Nature: equitable, now largely statutory; aims to compel actual performance where damages are inadequate.
+        Grant: subject to statutory conditions (readiness & willingness, certainty, possibility, mutuality, no legal bars).
+        Refusal: personal service, determinable contracts, continuous supervision, uncertain/vague terms, hardship/inequity.
+        Parties: who may obtain (s.15) and against whom (commonly treated via s.19), including subsequent transferees with notice. 
+
+    Introduction
+
+        Specific performance is ordered when monetary compensation cannot put the plaintiff in the same position—classically for unique property (immovable land) or specially bargained-for performance. Courts enforce the bargain only when statutory pre-conditions are met and no bars apply.
+
+    Law & statutory hooks (short wordings)
+
+        s.9: Defences under the Contract Act available.
+        s.10: (Post-amendment sense) Specific performance shall be enforced subject to exceptions; historically grounded in inadequacy of damages.
+        s.11–13: Special cases (trusts; titles; part performance under TPA s.53A).
+        s.14: Contracts not specifically enforceable (e.g., personal service, determinable contracts, acts needing constant supervision, uncertain terms).
+        s.15: Who may obtain: parties, representatives, beneficiaries (incl. reversioners, companies through promoters, etc.).
+        s.16: Personal bars—plaintiff must plead/prove readiness & willingness; no default; no inequitable conduct.
+        s.21: Court may award compensation in addition to or in substitution for specific performance.
+        s.24: Bars where plaintiff cannot claim inconsistent reliefs or where other statutory bars apply.
+        (Commonly paired) s.19: Against whom: the other party and persons claiming under him, including subsequent transferees for value with notice; bona fide purchaser without notice is protected.
+
+    Explanation & application
+
+        When specific performance is generally granted
+            Damages inadequate / uniqueness: sale of immovable property; rare/unique chattels; bespoke subject-matter.
+            Valid, certain, and enforceable contract: terms clear; consideration lawful; performance possible.
+            Readiness & willingness (s.16(c)): continuous readiness from date of contract till decree (plead + prove).
+            Mutuality & fairness: no unconscionable bargain; equities balance in plaintiff’s favour.
+        When it is refused (key bars)
+            Determinable contracts (terminable at will/pleasure): not specifically enforceable (s.14).
+            Contracts of personal service or dependent on personal qualifications (s.14).
+            Continuous supervision by court required (building/ongoing operation) unless terms are precise/manageable (s.14).
+            Uncertainty/Vagueness: essential terms unsettled (price, subject-matter, timeline).
+            Hardship/inequity at decree stage and plaintiff’s default or laches (links to s.16 personal bars).
+        Who may obtain & against whom
+            Who (s.15): the promisee, representatives/assigns, beneficiaries under settlements, companies through promoters’ preliminary contracts (if adopted), etc.
+            Against whom (read with s.19): the promisor and those claiming under him; subsequent transferees with notice (specific performance binds them); BFP without notice is shielded.
+        Practical exam pointers
+            Always plead readiness & willingness + attach evidence (earnest payments, correspondence).
+            In land-sale suits: discuss time-is-of-essence (usually not in immovable property unless expressly so or circumstances show), then tackle section 14 bars and s.19 against subsequent purchasers.
+
+    Five must-cite case laws
+
+        N.P. Thirugnanam v Dr. R. Jagan Mohan Rao (SC) — Plaintiff must continuously be ready & willing (s.16(c)); burden is real, not formal.
+        Chand Rani v Kamal Rani (SC) — Time is generally not of the essence in sales of immovable property unless clearly stipulated or inferred from circumstances; impacts grant/refusal.
+        Indian Oil Corp. v Amritsar Gas Service (SC) — Determinable contract → no specific performance; only appropriate monetary relief.
+        Durga Prasad v Deep Chand (SC) — Decree of specific performance may run against subsequent transferees; court can direct them to join the conveyance (subject to BFP without notice protection).
+        K. Narendra v Riviera Apartments (P) Ltd. (SC) — Court may refuse specific performance where enforcement would be inequitable or cause undue hardship disproportionate to benefit.
+        (Helpful adjunct for negative covenants: Gujarat Bottling Co. v Coca-Cola Co. — injunction to hold parties to a subsisting negative stipulation.)
+
+    Conclusion
+
+        Grant of specific performance turns on (i) adequacy of damages, (ii) statutory bars (s.14), (iii) plaintiff’s readiness & willingness (s.16), and (iv) equities. Relief can bind successors/notice-holders, but determinable/personal/uncertain contracts are out. Courts may couple or substitute damages under s.21.
+
+    Memory peg
+
+        “G-R-B-P → 10/14/16/19/21”
+        Grant when damages Inadequate/Unique (→ s.10 spirit)
+        Readiness & willingness (s.16(c))
+        Bars in s.14 (Determinable / Personal / Supervision / Uncertain)
+        Parties: Who s.15; Against s.19 (bind notice-holders; spare BFP without notice)
+        + s.21 for compensation with/for SP
+
+
+Injunctions — temporary, perpetual, mandatory; when granted/refused (Specific Relief Act, 1963).
+
+    Synopsis
+
+        Preventive relief (SRA s.36) is given by injunctions.
+        Temporary injunctions (SRA s.37(1) + CPC Order 39 Rules 1–2) protect the status quo till trial; test = prima facie case + balance of convenience + irreparable injury.
+        Perpetual injunctions (s.38) are final decrees to prevent breach of an obligation (esp. rights in property).
+        Mandatory injunctions (s.39) compel positive acts to restore things to their former state/undo a breach; applied sparingly.
+        Refusals (s.41) include: adequate damages, enforce negative covenant during subsistence only, hardship, etc. Damages with/for injunction (s.40).
+
+    Introduction
+
+        Injunctions are equitable, discretionary tools to prevent or undo harm. Courts guard against both irremediable injury and abuse of injunctions by insisting on structured tests and the bars in s.41.
+
+    Law & statutory hooks (short wordings)
+
+        s.36: Preventive relief by injunction.
+        s.37: Temporary (till a specified time/further orders; governed by CPC O.39 Rr.1–2) vs Perpetual (by decree on merits).
+        s.38: Court may grant perpetual injunction to prevent breach of obligation, incl. to protect possession/ownership, easements, nuisance, etc.
+        s.39: Mandatory injunction to prevent breach by compelling performance of certain acts.
+        s.40: Court may award damages in addition to or in substitution for injunction.
+        s.41: When injunction cannot be granted (illustratively): to restrain judicial proceedings (save exceptions), to restrain breach where equally efficacious relief by damages exists, to enforce a contract not specifically enforceable, to prevent breach of a negative covenant after contract has ended, against trifles, etc.
+        s.42 (classic head): Injunction to perform negative agreements (e.g., not to compete) during the subsistence of the contract.
+
+    Explanation & application
+
+        A. Temporary injunctions (interim relief)
+            Purpose: preserve status quo and prevent irreparable harm before trial.
+            Three-part test (judge-made, echoed repeatedly):
+                Prima facie case (serious question to try);
+                Balance of convenience in favour of applicant;
+                Irreparable injury (compensation not an adequate remedy).
+            Ex parte orders: exceptional; strict scrutiny and short return dates.
+        B. Perpetual injunctions (final relief)
+            Granted after trial when:
+                There is a breach or threatened breach of a legal obligation/right, especially property rights;
+                Damages are inadequate or multiplicity of suits likely;
+                Relief is clear, certain, and enforceable.
+        C. Mandatory injunctions
+            Extraordinary; to undo an accomplished wrong or compel performance that preserves justice.
+            Court looks for: a strong prima facie case, greater hardship if refused than granted, and the need to restore last non-wrongful state.
+        D. Bars/refusals (s.41 highlights)
+            Where damages are adequate;
+            To enforce personal service/contracts not specifically enforceable;
+            To restrain libel without clear case;
+            To enforce negative covenants after contract ends;
+            Where plaintiff is in delay/laches or has unclean hands.
+        E. Negative covenants (s.42)
+            Courts enforce “do not do” clauses during subsistence of the contract (e.g., exclusivity), but won’t create a back-door specific performance of a determinable contract.
+
+    Five must-cite case laws
+
+        Dalpat Kumar v Prahlad Singh (SC 1992) — Canonical 3-part test for interim injunctions: prima facie, balance of convenience, irreparable injury; no injunction on mere arguable case.
+        Wander Ltd. v Antox India (P) Ltd. (SC 1990) — Appellate restraint: interim injunctions are discretionary; appeals interfere only on principle or perversity.
+        Morgan Stanley Mutual Fund v Kartick Das (SC 1994) — Ex parte interim injunctions are exceptional; strict conditions and brevity.
+        Dorab Cawasji Warden v Coomi Sorab Warden (SC 1990) — Mandatory injunction test: high standard—strong prima facie case, irreparable injury, balance of convenience clearly in favour; restores status quo ante.
+        Gujarat Bottling Co. v Coca-Cola Co. (SC 1995) — Negative covenants: courts may restrain violation during subsistence of contract; highlights s.42 logic and s.41 bars.
+        (Property-suit aid: Anathula Sudhakar v P. Buchi Reddy (SC 2008) — when to seek injunction vs declaration vs possession.)
+
+    Conclusion
+
+        Injunctions prevent or undo harm. Courts apply structured tests (especially for temporary/mandatory relief) and vigilantly observe s.41 bars to avoid over-reach. Perpetual injunctions protect enduring rights; mandatory ones correct accomplished wrongs—both granted only when damages are inadequate and equities favour the plaintiff.
+
+    Memory peg
+
+        “TIP-MBR”
+        Temporary (O.39: P-B-I = Prima facie, Balance, Irreparable)
+        Injunctions under SRA 36–42
+        Perpetual (s.38) protects rights;
+        Mandatory (s.39) restores status quo;
+        Bars (s.41) — damages adequate, personal/determinable, etc.;
+        Remedies mix (s.40 damages with/for injunction; s.42 negative covenants during subsistence). 
+
+
+Rectification of instruments, cancellation of instruments, and declaratory decrees — nature, grounds, and court’s powers (Specific Relief Act, 1963).
+
+    Synopsis
+
+        Rectification (Ss. 26 & allied principles): correct a written instrument that, by fraud or mutual mistake, fails to express the real intention; needs precise pleadings.
+        Cancellation (s.31): cancel a void/voidable written instrument causing reasonable apprehension of serious injury if left outstanding.
+        Declaratory decrees (s.34): declaration of legal status/right without consequential relief where adequate; court’s discretionary power, subject to bars.
+
+    Introduction
+
+        Courts protect parties from the mismatch between reality and paperwork (rectification), the cloud cast by defective instruments (cancellation), and uncertainty over status/rights (declarations). Reliefs are discretionary, guided by equity and the Specific Relief Act.
+
+    Law & statutory hooks (short wordings)
+
+        Rectification (commonly treated under SRA s.26):
+            When, through fraud or (common) mistake, a written instrument does not express the parties’ real intention, court may rectify it.
+            Requirements: clear pleadings of mistake/fraud; exact form of the instrument intended; court may grant consequential relief (e.g., specific performance as rectified).
+            Limits: Unilateral mistake generally insufficient (unless fraud/knowledge by the other side).
+        Cancellation (s.31):
+            Person against whom a written instrument is void/voidable, and who has reasonable apprehension of serious injury, may sue to have it adjudged void/voidable and cancelled (whole or in part).
+            Court may require repossession and deliver up for cancellation; may order annexure/endorsement; ensures protection of third parties.
+        Declaratory decrees (s.34):
+            Any person entitled to any legal character or to any right as to property may sue against any person denying/ interested to deny such title, and court may make a declaration.
+            Proviso: Court shall not make a declaration where the plaintiff, being able to seek further relief than a mere declaration, omits to do so.
+            Declarations are binding only on parties/privies.
+
+    Explanation & application
+
+        A. Rectification
+            Mutual mistake/fraud must be proved with convincing evidence; the goal is to align the instrument with the true common intention.
+            Typical: wrong boundary description, mis-typed consideration, swapped clauses, mistaken plot number.
+            Court may rectify first and then grant specific performance of the rectified instrument (to avoid multiplicity).
+        B. Cancellation
+            Use when a void/voidable deed (e.g., forged, executed under undue influence, or incompetent party) threatens serious injury if left outstanding (cloud on title, risk of suits).
+            Relief can be partial (cancel a clause) where severable; the court may direct delivery up for physical cancellation.
+            Where a more suitable remedy exists (e.g., declaration + possession), the court weighs efficacy and equities.
+        C. Declaratory decrees
+            Appropriate to quiet title or settle status (e.g., legitimacy, adoption, easement, share).
+            If further relief (injunction/possession/specific performance) is available and necessary, failure to claim it bars a bare declaration (proviso to s.34).
+            Not a device to decide abstract questions; must be a real and present controversy.
+
+    Five must-cite case laws
+
+        Jagdish Singh v Natthu Singh (SC) — Rectification requires clear proof of common intention and mutual mistake/fraud; courts won’t re-write bargains.
+        Loon Karan Sethia v Ivan E. John (SC) — On rectification standards and caution against altering substantive rights absent convincing evidence.
+        Deo Kuer v Sheo Prasad Singh (PC) — Cancellation: when a void/voidable deed casts a cloud on title, court may cancel to avert serious injury.
+        Satya Pal Anand v State of M.P. (SC) — Declaratory relief is discretionary; court considers whether further relief should have been claimed; no declarations for academic disputes.
+        Smt. Ganga Bai v Vijay Kumar (SC) — Plaintiff must seek appropriate consequential relief where necessary; bare declaration may be refused under the s.34 proviso.
+        (Handy pair if space allows: H. Ananda Reddy v Konduru Venkat Reddy—rectification details; Anathula Sudhakar v P. Buchi Reddy—when to sue for declaration/injunction/possession.)
+
+    Conclusion
+
+        Use rectification to fix instruments that misrecord the true bargain (fraud/mutual mistake). Use cancellation to neutralize harmful void/voidable instruments. Seek a declaration to quiet legal character/property rights, but remember the proviso—ask for further relief when you can.
+
+    Memory peg
+
+        “ReCaD ⇒ Proof–Peril–Proviso”
+        Rectification: Proof of mutual mistake/fraud + intended terms, then SP as rectified.
+        Cancellation: Peril (reasonable apprehension of serious injury) from void/voidable instrument.
+        Declaration: Proviso—no bare declaration when further relief is available; keep it real, not academic. 
+
+        

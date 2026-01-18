@@ -1,0 +1,201 @@
+“All contracts are agreements, but all agreements are not contracts.” Explain with the essentials of a valid contract.
+
+    Synopsis
+
+        Agreement = offer + acceptance (ICA, 1872, s.2(e)); Contract = agreement enforceable by law (s.2(h)).
+        Only agreements satisfying Section 10 essentials become contracts. 
+        Non-legal agreements (social/domestic, unlawful, void/voidable without cure) are not contracts.
+        Key essentials: parties competent, free consent, lawful consideration/object, certainty, possibility, not expressly void, etc.
+
+    Introduction
+
+        The Indian Contract Act, 1872 (ICA) separates the formation stage (agreement) from legal enforceability (contract). The maxim highlights that enforceability is the differentiator.
+
+    Law & statutory hooks (with short wordings)
+
+        s.2(a) “proposal/offer”: signifying willingness to do/abstain to obtain assent.
+        s.2(b) “acceptance”: assent to the proposal. 
+        s.2(e) “agreement”: every promise or set of promises forming consideration for each other.
+        s.2(h) “contract”: an agreement enforceable by law.
+        s.10: Agreements are contracts if made by competent parties, with free consent, for lawful consideration and lawful object, not expressly void, and when required in the prescribed form.
+        s.11–12 capacity; s.13–19 consent, coercion, undue influence, fraud, misrepresentation, mistake;
+        s.23 unlawful consideration/object; s.24–30 agreements expressly void;
+        s.29 uncertainty void; s.56 impossibility.
+
+    Explanation & application
+
+        Agreement vs. Contract
+        Every contract begins as an agreement (offer + acceptance).
+        It becomes a contract only if s.10 conditions are satisfied → courts will enforce.
+        Essentials that convert an agreement into a contract
+        Competency (s.11–12): majors, sound mind, not disqualified.
+        Free consent (s.13–14): no coercion (s.15), undue influence (s.16), fraud (s.17), misrepresentation (s.18); mistake rules (s.20–22).
+        Lawful consideration & object (s.2(d), s.23): not forbidden by law; not fraudulent; not opposed to public policy.
+        Not expressly void (s.24–30): e.g., restraint of marriage/trade/legal proceedings; agreements by way of wager; uncertainty (s.29).
+        Certainty & possibility: terms certain (s.29), performance possible (s.56).
+        Intention to create legal relations: not textual in ICA but recognized by courts—social/domestic arrangements generally lack intention.
+        Why all agreements are not contracts
+        Social/domestic (no legal intent) → not enforceable.
+        Void agreements (e.g., uncertain terms, restraint of trade) → unenforceable.
+        Agreements with minors/unsound mind → void/voidable due to incapacity.
+        Unlawful object/consideration → void (s.23).
+
+    Five must-cite case laws
+
+        Balfour v Balfour (1919) – Domestic promises lack intention to create legal relations; hence agreement ≠ contract.
+        Carlill v Carbolic Smoke Ball Co. (1893) – Offer, acceptance (by performance), consideration → enforceable promise; illustrates when agreement is a contract.
+        Mohori Bibee v Dharmodas Ghose (1903) – Minor’s agreement void ab initio (capacity essential).
+        Lalman Shukla v Gauri Dutt (1913) – Communication of offer required for acceptance; otherwise no concluded agreement/contract.
+        Rose & Frank Co. v J.R. Crompton (1925) – “Honour clause” negating legal intent → agreement not intended as a contract.
+        (Indian add-ons you can mention if space permits: Abdul Aziz v Masum Ali (consideration must move at promisor’s desire); Kedar Nath v Gorie Mohammad (subscription + detriment can be consideration).)
+
+    Conclusion
+
+        Thus, agreement is the genus; contract is the species that satisfies Section 10 essentials and is legally enforceable. The line is drawn by capacity, free consent, legality, certainty, and intention.
+
+    Memory peg (one-liner)
+        A-C-F-L-C-C-P → Agreement → Capacity, Free consent, Lawful (consideration/object), Certainty, not void (Clauses), Possibility.
+
+
+Define consideration; explain its essentials and the exceptions to privity of contract (with cases).
+
+    Synopsis
+
+        Consideration (s.2(d)) = act/abstinence/promise, done at the promisor’s desire, by promisee or any other person, has done/does/promises to do (past, present, future).
+        Essentials: real, lawful, possible; need not be adequate; must move at promisor’s desire; can move from third party (India).
+        No consideration, no contract—but statutory and judge-made exceptions.
+        Privity rule: only parties can sue; Indian exceptions allow third-party enforcement in specific settings.
+
+    Introduction
+
+        Consideration is the price of a promise; it marks the boundary between nudum pactum (bare promise) and an enforceable bargain. The ICA adopts a broad, flexible approach (s.2(d)), recognizing past consideration and third-party consideration—distinct from classical English law.
+
+    Law & statutory hooks (short wordings)
+
+        s.2(d): consideration = has done/does/promises to do/abstain at promisor’s desire, by promisee or any other person.
+        Adequacy: not required; inadequacy may indicate lack of free consent (s.25, Expln. 2).
+        “No consideration, no contract” with statutory exceptions (s.25):
+            s.25(1): written & registered promise out of natural love & affection between near relations.
+            s.25(2): promise to compensate for a voluntary act already done for the promisor.
+            s.25(3): promise to pay a time-barred debt, in writing and signed.
+            Completed gifts saved (Expln. 1 to s.25).
+        Other ICA instances: s.63 (remission without consideration); s.127 (consideration for guarantee = benefit to principal debtor); s.185 (consideration not necessary for agency).
+        Privity rule: only parties can sue (common law); ICA allows consideration from third party, but privity generally bars a stranger from enforcing—Indian exceptions below.
+
+    Explanation & application
+
+        Essentials of valid consideration
+            At promisor’s desire: acts done voluntarily or at a third party’s desire don’t count unless covered by s.25(2).
+            May move from any person: India permits third-party consideration (key difference from English law).
+            Past, present, future: valid under s.2(d).
+            Lawful & real: not illusory; not unlawful (s.23), not impossible (s.56).
+            Adequacy immaterial: courts don’t value-match; they check free consent.
+        Statutory/judicial exceptions to “no consideration, no contract”
+            Natural love & affection (s.25(1))—must be written, registered, near relations.
+            Past voluntary services (s.25(2)).
+            Time-barred debt (s.25(3)).
+            Completed gifts (valid without consideration).
+            Remission/waiver (s.63).
+            Guarantee & Agency (ss.127, 185).
+        Privity of contract—rule & Indian exceptions
+            General rule: a stranger to a contract cannot sue (classical English approach).
+            Indian exceptions (where a non-party may enforce):
+                Trusts/beneficiary arrangements.
+                Family settlements/marriage arrangements.
+                Acknowledge/estoppel—promisor acknowledges liability to a third party.
+                Charge on specific property/assignment.
+                Agency/subrogation.
+                (Plus: where statute confers rights.)
+
+    Five must-cite case laws
+
+        Currie v Misa (1875) – Classical definition: detriment to promisee or benefit to promisor; anchors meaning of consideration.
+        Chinnayya v Ramayya (1882) – Consideration may move from a third party; enforceability sustained in India despite non-party consideration.
+        Dunlop Pneumatic Tyre Co. v Selfridge (1915) – Privity rule: non-party generally cannot sue (contrast with Indian exceptions).
+        Khwaja Muhammad Khan v Hussaini Begum (1910) – Marriage/family settlement creates enforceable right in a beneficiary (exception to privity).
+        Kedarnath Bhattacharjee v Gorie Mohammad (1886) – Charitable subscription enforceable when the promisee alters position relying on it (practical application of consideration/reliance).
+        (Useful Indian add-ons if space allows: Abdul Aziz v Masum Ali—mere promise to subscribe unenforceable absent detriment; Union of India v Chaman Lal Loona—past consideration under s.2(d).)
+
+    Conclusion
+
+        Under the ICA, consideration is expansive—it can be past and may move from any person—but it must be real, lawful, and at the promisor’s desire. While privity limits who can sue, Indian law recognizes structured exceptions (trusts, family arrangements, acknowledgments, etc.), ensuring justice where a contract is intended to benefit a third party.
+
+
+Offer & Acceptance — rules on communication and revocation; Invitation to Offer (tenders, display of goods); note on e-contracts.
+
+    Synopsis
+
+        Offer (s.2(a)) + Acceptance (s.2(b)) → Agreement (s.2(e)).
+        Communication: ss.3–4; Revocation: s.5–6; Form: ss.7–9.
+        Invitation to offer ≠ offer (tenders, price lists, shelf displays).
+        E-contracts valid (IT Act, s.10A); dispatch/receipt rules (s.13 IT Act).
+
+    Introduction
+
+        Contracts form through consensus ad idem. The ICA sets when an offer/acceptance is communicated and when it can be revoked, while common-law doctrine distinguishes offers from mere invitations. Modern commerce adds electronic contracting, which Indian law expressly recognizes.
+
+    Law & statutory hooks (short wordings)
+
+        s.2(a) Offer: willingness to do/abstain to obtain assent.
+        s.2(b) Acceptance: assent given → proposal becomes promise.
+        s.3 Communication: by act/omission intending to communicate.
+        s.4 When complete:
+            Offer: when it comes to knowledge of the offeree.
+            Acceptance: as against proposer when put in the course of transmission; as against acceptor when it comes to knowledge of proposer.
+        s.5 Revocation:
+            Offer revocable anytime before acceptance is complete as against proposer.
+            Acceptance revocable before acceptance is complete as against acceptor.
+        s.6 Modes of revocation: notice, lapse of time, failure of condition precedent, death/insanity notice, counter-offer, etc.
+        s.7 Acceptance must be absolute and unqualified; s.8 by performance; s.9 express/implied.
+        IT Act, 2000 s.10A: e-contracts not denied validity solely because electronic; s.13: time/place of dispatch/receipt of electronic records.
+
+    Explanation & application
+
+        Communication mechanics (postal vs instantaneous):
+            Postal/dispatch rule (s.4): binds proposer when acceptance is posted/put in transmission; binds acceptor when it reaches proposer.
+            Instant communication (phone/telex/email/chat): contract completes when/where acceptance is received (practical receipt).
+        Revocation timing (s.5):
+            Proposer may revoke before acceptance is complete against him (i.e., before dispatch by acceptor).
+            Acceptor may revoke before it is complete against him (i.e., before the proposer receives it).
+            Methods (s.6): express notice, lapse, counter-offer (kills original), death/insanity notified, non-fulfilment of condition precedent.
+        Invitation to offer (not an offer):
+            Tenders, price lists, advertisements, display of goods usually invite offers; the buyer’s bid is the offer; acceptance occurs at seller/cash desk.
+            Exception: unilateral reward ads can be true offers if clear, definite, and intended to be binding.
+        E-contracts:
+            Click-wrap/accept-by-email valid if consensus + Section 10 essentials.
+            IT Act s.13 helps decide dispatch/receipt (server location, designated email, etc.).
+            Course of dealing may show assent even without formal signature.
+
+    Five must-cite case laws
+
+        Carlill v Carbolic Smoke Ball Co. (1893) – Reward advertisement as offer; acceptance by performance; communication waived.
+        Harvey v Facey (1893) – Price quotation is not an offer; mere invitation to negotiate.
+        Pharmaceutical Society v Boots (1953) – Display of goods is invitation to offer; offer at cash desk; acceptance at checkout.
+        Hyde v Wrench (1840) – Counter-offer rejects and destroys the original offer.
+        Bhagwandas Goverdhandas Kedia v Girdharilal & Co. (SC 1966) – Instantaneous communications (telephone/telex): contract forms where acceptance is received; postal dispatch rule doesn’t apply.
+        (Useful Indian e-contract add-on if you have space: Trimex International FZE v Vedanta (SC 2010) — emails and conduct can conclude a contract.)
+
+    Conclusion
+
+        A contract needs a clear offer and absolute acceptance, communicated per ss.3–4, subject to revocation limits in s.5–6. Many commercial contexts (tenders, shelves, ads) are invitations, not offers. Electronic modes are fully valid; acceptance timing follows receipt rules for instantaneous media.
+
+    Memory peg
+
+        “O-A-C-R-I-E” → Offer – Acceptance – Communication – Revocation – Invitation – E-contracts
+            C4: s.3 (how), s.4 (when)
+            R56: s.5 (when revocable), s.6 (how)
+            Invite ≠ Offer: Tenders/Display/Ads (Boots/Harvey)
+            E: IT Act 10A/13 (valid + dispatch/receipt)
+
+
+
+
+
+
+
+
+
+
+
+
+

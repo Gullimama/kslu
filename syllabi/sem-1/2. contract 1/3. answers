@@ -1,0 +1,200 @@
+Modes of discharge of contracts — by performance, agreement, impossibility, operation of law, and breach (anticipatory & actual).
+
+    Synopsis
+
+        Performance (actual/tender) → obligations fulfilled; includes joint promisors, reciprocal promises.
+        Agreement (s.62–63) → novation, rescission, alteration; remission/waiver/accord & satisfaction.
+        Impossibility/frustration (s.56) → supervening impossibility/illegality.
+        Operation of law → merger, limitation, insolvency, death (in personal contracts).
+        Breach → anticipatory (before due date) & actual (on due date); election & consequences.
+
+    Introduction
+
+        “Discharge” means the termination of contractual obligations. The ICA recognizes multiple exit doors—from proper performance to supervening events and party conduct—each with distinct requirements and effects.
+
+    Law & statutory hooks (short wordings)
+
+        By performance
+            s.37–39: duty to perform; refusal/disablement = breach.
+            Tender of performance (valid offer to perform) has legal effect.
+            s.42–45: devolution—joint promisors and joint promisees.
+            Reciprocal promises: s.51–54 (order of performance, prevention, dependent/independent promises).
+        By agreement (consentual discharge)
+            s.62: Novation / Rescission / Alteration → old contract discharged.
+            s.63: Remission / Waiver / Extension of time / Acceptance of lesser sum → promisee may dispense with/ remit performance.
+        By supervening impossibility/illegality
+            s.56(1): agreement to do impossible → void.
+            s.56(2): supervening impossibility → contract becomes void when act becomes impossible/ unlawful.
+        Operation of law
+            Merger (inferior right into superior), insolvency, lapse of limitation, death in contracts of personal skill.
+        By breach
+            s.39: Anticipatory breach by refusal/disablement → promisee may rescind or treat as subsisting.
+            Actual breach on due date by non-performance/ defective performance.
+
+    Explanation & application
+
+        Performance (including tender):
+            Proper offer to perform (tender), if refused by promisee, can discharge the promisor (subject to facts).
+            Reciprocal promises: if one party prevents the other (s.53), the contract becomes voidable, with claim for compensation.
+        Discharge by agreement (s.62–63):
+            Novation: substitute new contract/party; requires consent & a valid new contract.
+            Rescission/Alteration: consensual cancellation or change of terms; once valid, the old rights die.
+            Remission (s.63): promisee can accept lesser performance or extend time without fresh consideration (Indian rule).
+        Impossibility / frustration (s.56):
+            Applies when unforeseen events destroy the foundation of the contract (e.g., destruction of subject, legal prohibition).
+            Commercial hardship alone is not frustration.
+        Operation of law:
+            Limitation expiry bars remedy; insolvency discharges provable debts; merger extinguishes lower right.
+            Death ends contracts of personal skill/confidence; others bind legal representatives.
+        Breach:
+            Anticipatory: innocent party may treat as rescinded at once (and sue) or keep alive (risking discharge if supervening frustration occurs).
+            Actual: non-performance on due date; normal remedies follow (damages, etc.—Unit 4).
+
+    Five must-cite case laws
+
+        Satyabrata Ghose v Mugneeram Bangur (SC 1954) — s.56 frustration in India is a matter of construction; not confined to literal impossibility; delay/hardship alone may not suffice.
+        Alopi Parshad & Sons v Union of India (SC 1960) — Commercial impracticability or rise in cost ≠ frustration; parties bound by bargain.
+        Kishorilal Gupta & Bros. v Scindia Steam Navigation (SC 1959) — Novation/rescission under s.62 and effect on arbitration clauses; new contract can extinguish old rights.
+        Hochster v De la Tour (1853) — Anticipatory breach: innocent party may sue before due date upon repudiation.
+        Startup v Macdonald (1843) — Tender of performance (timely offer to deliver) and legal consequences when tender is refused by promisee.
+        (Useful add-ons if space allows: Asian Techs Ltd v UOI—accord & satisfaction; State of M.P. v Nandlal Jaiswal—policy/legality aspects; OMLJ v Coastal Marine—modern frustration illustrations.)
+
+    Conclusion
+
+        A contract ends by proper performance, mutual arrangement (s.62–63), supervening impossibility (s.56), operation of law, or breach. The correct route depends on timing, consent, and the nature of the supervening event—and determines the remedies that follow.
+
+    Memory peg
+
+    “P-A-I-L-B” → Performance – Agreement – Impossibility – (operation of) Law – Breach
+        62/63: No ReAl (Novation/Rescission/Alteration; Remission)
+        56: IF = Impossibility/Frustration (not mere hardship)
+        39: AB/AB = Anticipatory Breach / Actual Breach
+        51–54: RRP = Reciprocal Rules of Performance
+
+
+Doctrine of frustration — meaning, scope, limits, and leading cases.
+
+    Synopsis
+
+        s.56 ICA: agreements to do impossible are void; supervening impossibility/illegality makes a contract void when the act becomes impossible or unlawful.
+        Frustration ≠ mere commercial hardship or rise in costs.
+        If parties allocated the risk (force-majeure/contingency), apply s.32 (contractual clause), not s.56.
+        Effects: contract becomes void, with restitution under s.65 for benefits received.
+
+    Introduction
+
+        Frustration discharges a contract when an unforeseen event, not due to either party’s fault, destroys the foundation of the bargain—making performance impossible or radically different from what was undertaken.
+
+    Law & statutory hooks (short wordings)
+
+        s.56(1): agreement to do impossible → void.
+        s.56(2): supervening impossibility/illegality → contract void when impossibility arises.
+        s.56(3): compensation for non-awareness of impossibility at the time of agreement.
+        s.65: on agreements discovered void or contracts becoming void, advantage must be restored (restitution).
+        s.32 vs s.56: If contract contemplates the event (force-majeure/contingent term), case falls under s.32 (apply the clause), not s.56.
+
+    Explanation & application
+
+        What counts as frustration
+            Destruction of subject-matter, supervening illegality, failure of common purpose, or events that strike at the root so performance becomes radically different.
+            Determined as a matter of construction of the contract and surrounding circumstances.
+        What does NOT count
+            Rise in cost, difficulty, delay, or impracticability alone.
+            Self-induced frustration (party’s own act or default).
+            Where a force-majeure clause already allocates the risk—courts enforce the clause (s.32), not s.56.
+        Consequences
+            Contract automatically void from the point of frustration; no need for rescission.
+            Restitution (s.65) for benefits conferred prior to the frustrating event, as justice requires.
+        Exam-friendly illustrations
+            Hall booked for coronation (purpose frustrated),
+            Music hall burned down (subject-matter destroyed),
+            Export/import ban (supervening illegality),
+            Tariff/fuel price spikes (generally not frustration unless clause says so).
+
+    Five must-cite case laws
+
+        Satyabrata Ghose v Mugneeram Bangur (SC 1954) — Frustration in India is a doctrine of construction under s.56; not confined to literal impossibility; mere delay/hardship is insufficient.
+        Energy Watchdog v CERC (SC 2017) — If contract has force-majeure/price-change allocation, apply s.32; commercial difficulty (e.g., fuel price rise) ≠ frustration under s.56.
+        Taylor v Caldwell (1863) — Destruction of subject-matter (music hall burned) → impossibility; contract discharged.
+        Krell v Henry (1903) — Frustration of common purpose (coronation viewing) though performance physically possible; purpose destroyed.
+        Alopi Parshad & Sons v Union of India (SC 1960) — Increased costs/scarcity do not frustrate a contract; parties held to their bargain.
+        (Optional Indian add-ons if space permits: Naihati Jute Mills v Hyaliram—export restrictions; Sushila Devi v Hari Singh—supervening impossibility due to political change.)
+
+    Conclusion
+
+        Use s.56 only when an unforeseen, no-fault event annihilates the basis of the bargain; otherwise the contract stands. If parties wrote a force-majeure term, that governs (s.32). Upon frustration, the contract is void, with s.65 restitution as fairness demands.
+
+    Memory peg
+
+        “F.I.R.S.T.”
+        Force-majeure? → s.32 first.
+        Impossibility/illegality (supervening) → s.56.
+        Radical change needed (not hardship).
+        Self-induced = no frustration.
+        Take back benefits → s.65 (restitution).
+
+Performance of reciprocal promises; time & place of performance; appropriation of payments.
+
+    Synopsis
+
+        Reciprocal promises (ss.51–54): order of performance; concurrent vs. dependent; prevention → voidable + compensation.
+        Time & place (ss.46–50, 55): when time is of the essence; rules if no time/place fixed.
+        Appropriation (ss.59–61): debtor’s choice → creditor’s choice → statutory default (oldest first / proportional).
+
+    Introduction
+
+        The ICA lays out who must perform first, when/where performance is due, and how payments get adjusted across multiple debts—all of which decide liability when things go wrong.
+
+    Law & statutory hooks (short wordings)
+
+        Reciprocal promises:
+            s.51: Concurrent promises—each ready & willing to perform.
+            s.52: Order when expressly or impliedly intended.
+            s.53: Prevention by one party → contract voidable at option of the other + claim compensation.
+            s.54: When one of mutual promises cannot be performed until the other is performed—failure of first bars the other’s claim.
+        Time & place of performance:
+            s.46–47: No time fixed → within a reasonable time; with time but no application → promisor performs during business hours on due day.
+            s.48–50: Place/time on application by promisee; reasonable opportunity to apply; performance in usual/ prescribed manner is valid.
+            s.55: If time is of the essence and promisor fails → contract voidable; if not of the essence → compensation for delay unless notice making time essential. Acceptance of delayed performance with no protest waives the right to void.
+        Appropriation of payments:
+            s.59 (Debtor indicates): Creditor must appropriate as indicated.
+            s.60 (Creditor chooses): If debtor is silent, creditor may appropriate to any lawful debt, even time-barred.
+            s.61 (Default rule): If neither appropriates → apply to debts in order of time; if equal standing, proportionately.
+
+    Explanation & application
+
+        Types of reciprocal promises:
+            Concurrent (s.51): e.g., sale of goods for cash—each must be ready; neither can demand performance from the other without being ready himself.
+            Sequential (s.52): e.g., construction then payment—order is implied/express.
+            Dependent (s.54): If A must do X before B’s duty arises, A’s failure disables B’s duty/claim.
+            Prevention (s.53): If one prevents the other’s performance, the aggrieved may rescind + claim compensation (often quantum meruit for the work done).
+        Time & place rules:
+            Where no time is fixed → perform within a reasonable time (fact-sensitive).
+            Time as essence (s.55): Often not presumed in building/long-term contracts; is presumed in mercantile deliveries unless contract shows otherwise.
+            If the promisee accepts late performance without reserving rights, he waives the right to avoid but may still claim compensation for delay when time not essential.
+            Place/manner (ss.48–50): Follow contractual or usual manner; tender at the proper place/time is legally effective.
+        Appropriation mechanics:
+            Step 1 (s.59): Debtor says “apply to Debt-A” → binding on creditor.
+            Step 2 (s.60): Debtor silent → creditor may apply to any debt (even time-barred).
+            Step 3 (s.61): If neither appropriates → law applies to oldest first, else pro rata among equals.
+            Running accounts: absent appropriation, think “first-in, first-out” logic on continuous accounts.
+
+    Five must-cite case laws
+
+        Cutter v Powell (1795) — Entire obligations & strict performance; frames when full performance is pre-condition to payment (contrast with quantum meruit exceptions).
+        Planche v Colburn (1831) — Prevention by promisee → claim for quantum meruit (maps to s.53 compensation).
+        Hind Construction Contractors v State of Maharashtra (SC 1979) — In construction contracts, time is generally not of the essence unless clearly stipulated; acceptance of late work often indicates waiver.
+        Bunge Corp. v Tradax (HL 1981) — In mercantile contracts, time stipulations (e.g., shipment notices) are commonly of the essence; delay can justify termination.
+        Devaynes v Noble (Clayton’s Case) (1816) — Running account appropriation principle (oldest items discharged first) — background logic echoed by s.61 defaults.
+        (If you want one more Indian illustration on quantum meruit, add Sushila Devi v Hari Singh or local High Court decisions applying s.70; but the above five cover the doctrinal spine.)
+
+    Conclusion
+
+        For multi-step bargains, who performs first and whether time is essential decide rights and remedies. When payments meet multiple debts, appropriation follows the debtor’s indication, else the creditor’s choice, else the statutory default—often clearing the oldest obligations first.
+
+    Memory peg
+
+        “R-T-A → 51-55-59/61”
+            Reciprocal: 51–54 (Concurrent/Order/Prevention/Dependent)
+            Time & place: 46–50, 55 (Reasonable, Business hours, Essence/waiver)
+            Appropriation: 59–61 (Debtor says → Creditor chooses → Law defaults = Oldest/Pro rata)

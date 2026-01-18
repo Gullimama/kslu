@@ -1,0 +1,190 @@
+Minor’s agreement — legal position and effects (with cases).
+
+    Synopsis
+
+        Capacity (s.11): minor (under 18) not competent.
+        Minor’s agreement = void ab initio (no ratification on majority).
+        Effects: no specific performance/damages; restitution only to prevent unjust enrichment (traceable property); necessaries reimbursable from minor’s property (s.68).
+        Minor can be a beneficiary; guardian’s contracts binding only if for minor’s benefit.
+
+    Introduction
+
+        The ICA protects minors from contractual liability. Courts balance incapacity with equitable restitution to prevent abuse, while ensuring genuine necessaries supplied are compensated from the minor’s estate.
+
+    Law & statutory hooks (short wordings)
+
+        s.11: Competent = majority + sound mind + not disqualified → minor not competent.
+        s.12: Sound mind test (awareness at time of contracting).
+        s.68: Necessaries supplied to a person incapable of contracting → reimbursement from his property.
+        No ratification: A void agreement cannot be made valid by ratification on attaining majority (fresh consideration needed; s.25 disallows past consideration).
+        Agency: Any person may be an agent, but a minor-agent not personally liable (ICA ss.182–184 implications).
+        Estoppel: Minor can plead minority; equity won’t enforce a void contract under the guise of restitution for money (only traceable benefits).
+
+    Explanation & application
+
+        Void from the outset: A minor’s agreement is void ab initio → no action for price/damages/specific performance on the contract itself.
+        No ratification on majority: Because there was no contract to begin with; a later promise without new consideration remains void (s.25).
+        Restitution (limited):
+            If specific property/benefit obtained by minor is traceable, court may order restoration to prevent unjust enrichment.
+            Money received cannot be decreed back merely to enforce the void contract; equity is cautious.
+        Necessaries (s.68): Supplier can recover a reasonable price from the minor’s property, not personal liability; “necessaries” depend on the minor’s status and actual need.
+        Guardian’s/benefit contracts: Contracts made by guardian are enforceable if clearly for the minor’s benefit (e.g., advantageous settlement/education/apprenticeship).
+        Minor as plaintiff/beneficiary: Minor can enforce rights where he is beneficiary (trusts, insurance payout), though he can’t be saddled with contractual burdens.
+
+    Five must-cite case laws
+
+        Mohori Bibee v Dharmodas Ghose (PC, 1903) — Cornerstone: minor’s contract void ab initio; mortgage by minor unenforceable.
+        Leslie (R) Ltd v Sheill (1914) — No damages or restitution for money lent to minor under deceit; equity won’t indirectly enforce a void contract.
+        Nash v Inman (1908) — Tailor failed: goods were not necessaries for that minor’s condition; s.68 requires actual necessity.
+        Khan Gul v Lakha Singh (Lahore 1928) — Restitution available where property obtained by minor is identifiable/traceable; prevents unjust enrichment.
+        Srikakulam Subrahmanyam v Kurra Subba Rao (PC, 1948) — Contract by guardian for minor’s benefit can be enforceable; courts look at benefit/necessity.
+
+    Conclusion
+
+        A minor’s agreement is void; there’s no ratification or personal liability. Yet the law ensures fairness via s.68 necessaries and limited restitution (traceable benefits) and allows beneficial guardian contracts to stand.
+
+    Memory peg
+
+        “VOID–NR–R(e)–N68–GB”
+            VOID ab initio (Mohori Bibee)
+            NR = No Ratification on majority
+            R(e) = Restitution (equitable, traceable) not money (Leslie; Khan Gul)
+            N68 = Necessaries s.68 from property (Nash v Inman test)
+            GB = Guardian-Benefit contracts enforceable (Srikakulam)
+
+
+Fraud vs Misrepresentation — define, distinguish, and state effects on consent (with cases).
+
+    Synopsis
+
+        Fraud (s.17): intentional deception (e.g., false statement known to be false, active concealment, promise without intent to perform, deceptive act/agent’s fraud).
+        Misrepresentation (s.18): innocent but false assertion, breach of duty without intent to deceive, or causing mistake innocently.
+        Effect (s.19): Contract voidable at the option of the aggrieved party. Distinct remedies and bars apply.
+
+    Introduction
+
+        Free consent (s.14) is vitiated when a party enters a contract under fraud or misrepresentation. The ICA draws a mens rea line: intention to deceive = fraud; honest mistake = misrepresentation.
+
+    Law & statutory hooks (short wordings)
+
+        s.17 (Fraud):
+        (i) Suggestion of fact known to be false; (ii) Active concealment; (iii) Promise without intention to perform; (iv) Any act fitted to deceive; (v) Agent’s fraud.
+        Explanation: Silence is not fraud unless there is a duty to speak or silence is equivalent to speech (e.g., half-truths, change of circumstances).
+
+        s.18 (Misrepresentation):
+        (i) Positive assertion, not warranted by information, though believed true; (ii) Breach of duty causing deception without intent; (iii) Innocent mistake as to subject matter.
+
+        s.19 (Effect): Consent caused by fraud/misrep → agreement voidable at option of the deceived.
+        Proviso (misrep only): If aggrieved had means of discovering truth with ordinary diligence, cannot avoid. (This bar does not apply to fraud.)
+
+    Explanation & application
+
+        Intention & knowledge:
+            Fraud requires knowledge of falsity / reckless disregard or deliberate concealment.
+            Misrepresentation involves honest belief in truth; no intent to deceive.
+        Silence & duty to speak:
+            Mere silence isn’t fraud (caveat emptor).
+            Becomes fraud where duty to disclose exists (fiduciary/insurance), or half-truths / supervening change make prior statement misleading.
+        Reliance & inducement:
+            Must induce the contract; if the statement didn’t operate on the mind of the representee, relief fails.
+        Remedies:
+            Rescission (set aside) for both.
+            Damages:
+                Fraud: rescission + damages (tort of deceit).
+                Misrepresentation: generally rescission; damages only where a duty is breached (e.g., negligent misstatement in tort) or statute permits; under s.19, misrep is voidable but the ordinary diligence bar may defeat rescission.
+            Affirmation/Delay/Impossibility of restitutio in integrum may bar rescission.
+        Special notes:
+            Promise without intent to perform is explicitly fraud (s.17).
+            Where the representee inspects and doesn’t rely, claim fails.
+
+    Five must-cite case laws
+
+        Derry v Peek (1889) — Fraud = statement made knowingly, without belief in its truth, or recklessly; mere negligence ≠ fraud.
+        Redgrave v Hurd (1881) — A representee may rely on representation and rescind even if he could have verified; contrasts with ICA s.19 proviso (ordinary diligence bar for misrep in India).
+        Horsefall v Thomas (1862) — No relief if there is no reliance (defect not relied upon).
+        Peek v Gurney (1873) — Concealment/half-truths in prospectus can constitute fraud.
+        Ningawwa v Byrappa Shiddappa Hirekurabar (SC 1968) — Indian authority on fraud vitiating consent; documents obtained by fraud set aside.
+
+        (Handy Indian adds if space permits: Oriental Banking Corp v John Fleming—active concealment; Hedley Byrne v Heller—negligent misstatement (for damages in misrep-adjacent claims).)
+
+    Conclusion
+
+        Both fraud and misrepresentation make a contract voidable (s.19). But fraud entails intentional deceit and supports damages, while misrepresentation is innocent, mainly yielding rescission, and may be defeated where the representee had ordinary means to discover the truth.
+
+    Memory peg
+
+        FRAUD (s.17): Knowing falsity, Active concealment, Promise w/o intent, Deceitful act/agent, Silence with duty.
+        MISREP (s.18): Honest but wrong assertion, Breach of duty innocently, Mistake induced.
+        EFFECT (s.19): Rescission for both; +Damages for fraud; O.D. bar (ordinary diligence) limits misrep rescission.
+
+Legality of object & void agreements (public policy, restraints, wagers, etc.) + brief note on contingent contracts.
+
+    Synopsis
+
+        s.23: consideration/object must be lawful—not forbidden, not defeating law, not fraudulent, not injurious to person/property, not immoral or opposed to public policy.
+        ss.24–30: agreements expressly void (e.g., part-unlawful, uncertain, restraints of marriage/trade/legal proceedings, wagers).
+        Contingent contracts (ss.31–36): enforceability depends on uncertain future events; specific rules on when they become enforceable/void.
+
+    Introduction
+
+        The ICA screens bargains at two gates: (1) lawful object/consideration (s.23) and (2) express voidness (ss.24–30). Separately, the Act treats contingent bargains as valid but conditional (ss.31–36).
+
+    Law & statutory hooks (short wordings)
+
+        s.23 (lawful object/consideration): void if forbidden by law; defeats provisions of law; fraudulent; injurious to person/property; immoral; opposed to public policy.
+        s.24: part-lawful/part-unlawful—void if the unlawful part cannot be separated.
+        s.26: restraint of marriage (other than of minor) → void.
+        s.27: restraint of trade → void (Indian rule is strict); exception: sale of goodwill with reasonable local limits.
+        s.28: restraint of legal proceedings → void (but choosing one of several competent courts is valid; arbitration clauses are permitted).
+        s.29: uncertainty → void.
+        s.30: wagering agreements void; collateral transactions not necessarily illegal (unless statute says so).
+        Contingent contracts (ss.31–36):
+            s.31: definition—performance depends on collateral uncertain event.
+            s.32: enforceable on happening of event.
+            s.33: contingent on non-happening enforceable when event becomes impossible or time passes.
+            s.34: future conduct of living person—treated as impossible when contrary conduct occurs.
+            s.35: fixed-time contingencies (happening or not happening).
+            s.36: contingent on impossible events → void.
+
+    Explanation & application
+
+        Opposed to public policy / immoral (s.23):
+            Headings include trading with enemy, stifling prosecution, maintenance & champerty (as abuse), trafficking in public offices, unconscionable bargains.
+            Unconscionability in modern Indian law: oppressive, one-sided clauses can be void under s.23.
+        Restraints (ss.26–28):
+            Trade (s.27): general restraint void—post-employment non-competes typically struck down; negative covenants during subsistence of contract may be valid.
+            Legal proceedings (s.28): absolute ouster void; but exclusive-jurisdiction among competent courts and arbitration are fine.
+            Marriage (s.26): restraints void.
+        Wagers (s.30):
+            Wagering = mutual chance of gain/loss depending on uncertain event; void but not illegal (unless state enactment says otherwise) → collateral agreements can stand.
+        Uncertainty & partial illegality (ss.24, 29): inseverable unlawful parts void entire bargain; uncertain terms void.
+        Contingent contracts:
+            Valid but conditional: insurance, indemnities (often contingent), conditional sales.
+            Enforceability turns strictly on event rules in ss.32–35; impossible contingencies (s.36) void.`
+
+    Five must-cite case laws
+
+        Gherulal Parakh v Mahadeodas Maiya (SC 1959) — Wagering agreements are void but not illegal under ICA; collateral transactions generally unaffected.
+        Central Inland Water Transport Corp. v Brojo Nath (SC 1986) — Opposed to public policy: striking down an unconscionable, one-sided termination clause under s.23.
+        Superintendence Co. v Krishan Murgai (SC 1980) — Post-employment non-compete = restraint of trade and void under s.27.
+        Gujarat Bottling Co. v Coca-Cola Co. (SC 1995) — Negative covenants during the subsistence of an agreement may be valid; not hit by s.27 if they protect legitimate interests.
+        Hakam Singh v Gammon (India) Ltd. (SC 1971) — Choice of one competent court by agreement is valid; s.28 does not bar such selection.
+        (If you need an “immorality” illustration, add Pearce v Brooks—hiring a carriage to further prostitution: unlawful object.)
+
+    Conclusion
+
+        The ICA treats bargains with unlawful/anti-policy objects as void (s.23) and expressly nullifies common restraints and wagers (ss.26–30). Contingent contracts are valid, but their enforceability switches on/off strictly per ss.31–36 depending on the event.
+
+    Memory peg
+
+        “LAP-PIM-RAWL-CUW + C5”
+            LAP (s.23): Law-defeating, Anti-policy/Immoral, Prohibited/fraud/injury.
+            RAWL (void blocks): Restraint of Actions (s.28), Wagers (s.30), Love/marriage restraint (s.26) + Restraint of Trade (s.27).
+            CUW: Collateral to Unlawful Wager generally survives (Gherulal).
+            C5 (contingent): Definition (s.31) → Happens (s.32) → Non-happens (s.33) → Future conduct (s.34) → Time-fixed (s.35) [think D-H-N-F-T]; Impossible (s.36) void.
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+Remedies for breach of contract — kinds and assessment of damages.
+
+    Synopsis
+
+        Primary money remedies: s.73 (compensation for loss caused) + s.74 (stipulated sum: liquidated damages/penalty) + s.75 (rescinding party’s compensation).
+        Assessment pillars: causation, remoteness (foreseeability), mitigation, and proof/measure.
+        Other private-law remedies: restitution/s.65, quantum meruit/s.70, nominal/exemplary (rare), plus equitable reliefs (specific performance/injunction—Unit 5).
+
+    Introduction
+
+        Indian law (ss.73–75, ICA) adopts the common-law principle of compensatory damages—put the aggrieved party, so far as money can, in the position as if the contract had been performed. The measure is shaped by foreseeability and duty to mitigate, with s.74 controlling agreed sums.
+
+    Law & statutory hooks (short wordings)
+
+        s.73: Compensation for loss/damage naturally arising in the usual course, or which parties knew at the time to be likely (foreseeability). No remote/indirect loss. Duty to mitigate implied.
+        s.74: When a sum is named or penalty stipulated → reasonable compensation not exceeding the sum named, whether or not actual loss is proved, subject to judicial scrutiny (no windfalls).
+        s.75: Party rightfully rescinding is entitled to compensation.
+        s.65: Restitution when agreements discovered void/contracts become void.
+        s.70: Quantum meruit for non-gratuitous acts where the other enjoys the benefit. 
+
+    Explanation & application
+
+        A. Kinds of remedies (exam-useful buckets)
+            Unliquidated damages (s.73):
+                General (expectation): natural, ordinary course losses.
+                Special (contemplation): communicated peculiar losses at formation.
+                Nominal: rights vindicated where no substantial loss.
+                Exemplary: exceptional (e.g., breach of promise to marry; rare in commercial contracts).
+            Liquidated damages / penalty (s.74): court awards reasonable compensation up to the cap; proof of exact loss may be dispensed with where loss is inherently difficult to prove, but no unjust enrichment.
+            Restitutionary responses: s.65 (restore benefits after voidness) & s.70 (quantum meruit) where part-performance/prevention.
+            Equitable/Specific Relief: Specific performance / injunctions (handled in Unit 5), often when damages are inadequate.
+            Rescission (s.75): upon rightful termination, compensation for consequent loss.
+        B. Assessment of damages — four pillars
+            Causation: breach must cause the loss (no intervening, independent cause).
+            Remoteness (foreseeability):
+                Ordinary losses recoverable (first limb).
+                Special losses only if both contemplated them at formation (second limb).
+            Mitigation: aggrieved party must act reasonably to reduce loss; cannot recover avoidable loss.
+            Measure/proof: market-difference at due date (where applicable), loss of profits if within contemplation, and reasonable certainty (not speculation).
+        C. Practical illustrations
+            Late delivery of machine → ordinary lost use; huge “war-time dye profits” without notice? too remote.
+            Earnest-money forfeiture clause → court tests under s.74; must be reasonable and tied to genuine pre-estimate or real risk; mere label “penalty/liquidated” not conclusive.
+            Prevention of performance → quantum meruit for work done (map to s.70; also s.53 scenario).
+
+    Five must-cite case laws
+        Hadley v Baxendale (1854) — Two-limb remoteness: ordinary course vs. special knowledge losses.
+        Victoria Laundry v Newman (1949) — Foreseeability nuance: ordinary lost profits allowed; extraordinary profits (e.g., special lucrative dyeing) too remote absent notice.
+        British Westinghouse v Underground Electric (1912) — Mitigation principle: benefits from reasonable mitigation reduce recoverable loss.
+        Fateh Chand v Balkishan Das (SC 1963) — s.74 controls both “penalty” and “liquidated” sums; court awards reasonable compensation not exceeding the named sum; proof of loss relevant where quantifiable.
+        Kailash Nath Associates v DDA (SC 2015) — Even with a named sum, if no loss or conditions for forfeiture unmet, no automatic award; court must find reasonable compensation (may be nil).
+        (Good Indian add-ons if space permits: ONGC v Saw Pipes (2003) on enforceability of LDs when loss is difficult to prove; Maula Bux v UOI (1970) on earnest money; Planche v Colburn (1831) for quantum meruit when performance is prevented.)
+
+    Conclusion
+
+        Indian damages aim at compensation, not punishment. Under s.73, recover what is foreseeable and caused by breach, after mitigation. Under s.74, stipulated sums are ceilings, not entitlements; courts grant reasonable compensation only. Where contracts unravel or performance is cut short, restitution/quantum meruit fills the gap.
+
+    Memory peg
+
+        “C-R-M-M + 73/74/75”
+        Causation → Remoteness (Hadley) → Mitigation (British Westinghouse) → Measure (market/lost profits).
+        73 = ordinary + special losses; 74 = cap with reasonable award; 75 = rescinding party’s compensation.
+        Restore with s.65; Q-M with s.70.
+
+
+Liquidated damages vs. penalty (s.74 ICA) — scope, test, and case law.
+
+    Synopsis
+
+        s.74 governs any named sum (or penalty stipulation): court awards reasonable compensation, not exceeding the sum named.
+        Labels (“liquidated damages”/“penalty”) aren’t decisive; the substance and reasonableness control.
+        If loss is inherently hard to prove and the rate is a genuine pre-estimate, courts may award up to the stipulation; else they cut it down (even to nil).
+        Earnest money forfeiture follows special indicators (intention, amount, breach, readiness/willingness).
+
+    Introduction
+
+        At common law, courts policed “penalties.” India streamlines this via s.74, focusing on reasonable compensation rather than semantic labels. The section prevents windfalls while respecting bona fide pre-estimates of loss.
+
+    Law & statutory hooks (short wordings)
+
+        s.74 (core rule): Upon breach of a contract with a sum named to be paid or penalty stipulated, the party complaining is entitled to reasonable compensation not exceeding the sum named, whether or not actual loss is proved, subject to proof that the breach occurred.
+        s.73 still guides measure (foreseeability, mitigation).
+        Interplay: If the contract fixes a formula for losses difficult to assess, courts lean to enforce as reasonable (subject to ceiling and fairness).
+
+    Explanation & application
+
+        Liquidated damages vs. penalty—what’s the real test?
+            Genuine pre-estimate at the time of contracting (commercially sensible) → closer to liquidated damages.
+            In terrorem / extravagant sum to coerce performance → penalty → court reduces to reasonable amount.
+        Proof of loss under s.74
+            If loss is quantifiable and none is shown, courts may award nil despite a clause.
+            If loss is difficult/impossible to quantify (e.g., downtime, reputation, unavailability of exact market measure), a bona fide LD clause can be granted without strict proof, up to the cap.
+        Earnest money & forfeiture (special notes)
+            To forfeit earnest, show: (i) sum intended as earnest, (ii) breach by purchaser, (iii) readiness/willingness issues, (iv) amount not unconscionable.
+            Large “deposits” masquerading as earnest may be scrutinized and refundable absent real loss.
+        Practical steps in answers
+            Identify breach → characterize clause (pre-estimate vs. penalty) → check nature of loss (easy vs. hard to prove) → apply s.74 ceiling + reasonableness → consider mitigation/s.73.
+
+    Five must-cite case laws
+
+        Fateh Chand v Balkishan Das (SC 1963) — Foundation case: s.74 covers both “penalty” and “liquidated damages”; award = reasonable compensation not exceeding the named sum; court won’t grant windfall.
+        ONGC v Saw Pipes Ltd (SC 2003) — Where loss is difficult to prove and the LD rate is a genuine pre-estimate, courts may enforce it (subject to s.74 ceiling) without strict proof of actual loss.
+        Kailash Nath Associates v DDA (SC 2015) — If no breach by the party or no loss and clause conditions unmet, no forfeiture; even with a named sum, the court may award nil.
+        Maula Bux v Union of India (SC 1970) — Earnest money/ security deposit: government can’t automatically forfeit; must show loss, unless loss is inherently hard to assess—then reasonable sum may be allowed.
+        Shree Hanuman Cotton Mills v Tata Air Craft (SC 1969) — Indicators of “earnest” (e.g., part payment, security for performance); when forfeiture is permissible.
+        (If you want a comparative pointer: Dunlop Pneumatic Tyre v New Garage—classic English penalty test; in India, s.74 superintends that analysis.)
+
+    Conclusion
+
+        Under s.74, Indian courts award reasonable compensation, not a penal windfall. A well-calibrated LD clause in contexts where losses resist precise proof will usually be respected; otherwise, the court trims (even to zero) guided by s.73 principles.
+
+    Memory peg
+
+        “C.A.P.E.”
+            Ceiling: not beyond the sum named (s.74).
+            Actual loss: prove if quantifiable; if inherently hard, LD may stand (Saw Pipes).
+            Pre-estimate vs Penalty: substance, not label (Fateh Chand).
+            Earnest rules: intention, breach, readiness—no automatic forfeiture (Maula Bux, Hanuman Cotton).
+
+
+Quasi-contracts (Secs. 68–72 ICA): nature, categories, and unjust-enrichment rationale.
+
+    Synopsis
+        
+        Not true “contracts”; obligations imposed by law to prevent unjust enrichment.
+        s.68–72 buckets: (i) Necessaries to incapable person; (ii) Payment by interested person; (iii) Non-gratuitous acts/quantum meruit; (iv) Finder of goods; (v) Money paid/thing delivered by mistake or under coercion.
+        Remedy = restitution/reasonable compensation—not expectation damages.
+
+    Introduction
+
+        Quasi-contractual liability arises where one party is enriched, the other impoverished, and no juristic reason justifies retention. The ICA codifies key scenarios (ss.68–72), aligning with the equity principle: “law abhors unjust enrichment.”
+
+    Law & statutory hooks (short wordings)
+
+        s.68 (Necessaries): Reimbursement from property of a person incapable of contracting (minor/unsound mind) for necessaries suited to condition in life supplied to him or dependants.
+        s.69 (Interested person): A person who, being interested in the payment of money which another is bound by law to pay, and who pays it, is entitled to be reimbursed.
+        s.70 (Non-gratuitous acts): If a person lawfully does something for another not intending it to be gratuitous, and the other enjoys the benefit, he must make compensation or restore the thing.
+        s.71 (Finder of goods): Finder is a bailee—must take reasonable care; has lien, can sue for reward, and may sell in limited circumstances.
+        s.72 (Mistake/coercion): A person to whom money is paid by mistake (fact or law) or under coercion must repay or return the thing.
+
+    Explanation & application
+
+        Nature of liability: Focus on restitution, not enforcing any promise. Measure = reasonable value of benefit (market rate, necessary expenses).
+        s.68—Necessaries:
+            “Necessaries” depend on status/need at the time (food, lodging, education, medical care).
+            Liability is from the incapable person’s property, not personal.
+        s.69—Payment by interested person:
+            Payer must be interested (protecting own legal interest), and the other must be legally bound to pay. Classic: paying land revenue to save your charge/mortgage.
+        s.70—Non-gratuitous acts (quantum meruit):
+            Act must be lawful, without gratuitous intent, and the other enjoys/accepts the benefit.
+            Typical where formal contract fails/void, or promisee prevents performance—compensation for value delivered.
+        s.71—Finder of goods:
+            Bailee-like duties/rights: take care, attempt to find owner; lien, reward rights; qualified power of sale if perishable or charges > value.
+        s.72—Mistake / coercion:
+            Mistake of fact or law—both refundable in India; also sums extracted under coercion (e.g., illegal distress).
+            Defences: change of position (equitable), passing on (contextual), statutory bars.
+
+    Five must-cite case laws
+
+        State of West Bengal v B.K. Mondal & Sons (SC 1962) — s.70: Government enjoyed the benefit of construction; compensation on quantum meruit despite no enforceable contract.
+        Sales Tax Officer, Banaras v Kanhaiya Lal Mukundlal Saraf (SC 1959) — s.72: Money paid under mistake of law is recoverable in India.
+        Nash v Inman (1908) — Necessaries: tailor failed as goods were not “necessaries” for that minor’s condition; illustrates s.68 test.
+        Armory v Delamirie (1722) — Finder of goods has better title than all but the true owner; supports s.71 rights.
+        Great Northern Railway Co. v Swaffield (1874) — Expenses incurred to preserve another’s property (agency of necessity): restitution for necessary expenses, akin to s.70/71 rationale.
+        (Add if space allows: Fibrosa v Fairbairn—failure of consideration and restitution; complements s.65/70 logic.)
+
+    Conclusion
+
+        Quasi-contract provisions restore value where one party is enriched without legal basis. Use the right section for the fact pattern, aim for reasonable compensation, and remember: the outcome is restitutionary, not expectancy.
+
+    Memory peg
+
+        “N-I-Q-F-M → 68-69-70-71-72”
+        Necessaries (property liable)
+        Interested payer reimbursed
+        Quantum meruit for non-gratuitous acts
+        Finder = bailee (care, lien, reward, limited sale)
+        Mistake/Muscle (coercion) → refund/return
+
+
+
+
+

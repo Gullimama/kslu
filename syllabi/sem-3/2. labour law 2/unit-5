@@ -1,0 +1,202 @@
+Q13) Unorganised Workers’ Social Security Act, 2008: features/scheme; necessity of protection.
+1) Synopsis
+
+The 2008 Act recognises unorganised workers and provides a framework for registration, welfare schemes, and social security benefits through notified programmes. It is necessary because unorganised labour faces income insecurity, lack of formal employer responsibility, and weak bargaining power.
+
+2) Introduction
+
+India’s workforce is predominantly unorganised, making social security a core policy challenge.
+
+Unorganised workers often lack PF/ESI, paid leave, and injury protection.
+
+The Act is a framework law enabling scheme-based protection.
+
+3) Laws/Statutes
+
+Unorganised Workers’ Social Security Act, 2008 (registration + scheme framework).
+
+Constitution: Articles 38, 41, 42, 43, 46.
+
+Scheme linkages: health insurance, maternity, old age pension etc. via notified schemes.
+
+4) Answer body
+
+The Act defines “unorganised worker” and identifies categories needing social security access.
+
+It provides for worker registration and issuance of identity to enable benefit delivery.
+
+It contemplates formulation/notification of schemes for life and disability cover, health and maternity, old age protection, and other benefits.
+
+It encourages convergence of existing welfare schemes rather than creating a single uniform benefit.
+
+Administrative structures support implementation through Boards/committees and designated authorities.
+
+Necessity arises from structural vulnerabilities: irregular employment, seasonal migration, wage theft, unsafe work, and lack of grievance redressal.
+
+Social security reduces poverty traps and stabilises household consumption and child education outcomes.
+
+Without protection, unorganised labour is prone to distress migration and exploitation.
+
+Critical issues: fragmentation of schemes, low awareness, documentation barriers, and weak portability.
+
+Constitutional mandate supports expanding coverage and simplifying registration.
+
+Courts have in related contexts pushed for stronger welfare implementation for informal workers (construction labour, etc.).
+
+Hence, the Act is a framework step requiring robust schemes and enforcement.
+
+5) Case laws (5)
+
+(Direct case law under the 2008 Act is limited; examiners accept welfare-state/social security precedents.)
+
+Consumer Education & Research Centre v. Union of India (1995), 1995 SCC (3) 42.
+
+Olga Tellis v. Bombay Municipal Corporation (1985), 1985 SCC (3) 545.
+
+People’s Union for Democratic Rights v. Union of India (1982), (1982) 3 SCC 235.
+
+Bandhua Mukti Morcha v. Union of India (1984), (1984) 3 SCC 161.
+
+National Campaign Committee for Central Legislation on Construction Labour v. Union of India (welfare fund utilisation—Supreme Court line of cases).
+
+6) Conclusion
+
+The 2008 Act acknowledges the unorganised sector’s exclusion from classic social insurance.
+
+It enables scheme-based coverage via registration and welfare convergence.
+
+Effective protection needs portability, awareness, simplified access, and strong implementation.
+
+Q14) Karnataka Shops & Commercial Establishments Act, 1961: working conditions, hours, annual leave with wages, employment of children/women, authorities/penalties.
+1) Synopsis
+
+The Karnataka Shops Act regulates service-sector employment by setting standards for hours of work, leave with wages, wage/payment discipline, and protections for vulnerable workers. It creates enforcement through inspectors/authorities and penalties for contravention.
+
+2) Introduction
+
+Shops and commercial establishments employ large urban workforce, often outside factories.
+
+Regulation prevents excessive hours, denial of leave, and exploitative conditions.
+
+The Act reflects welfare-state labour policy at the state level.
+
+3) Laws/Statutes
+
+Karnataka Shops and Commercial Establishments Act, 1961 (hours, overtime, weekly holidays, leave, wages, employment restrictions).
+
+Minimum Wages Act, 1948 (wage floor linkage).
+
+Child labour laws + constitutional protections (Articles 24, 42, 43).
+
+4) Answer body
+
+The Act applies to notified “shops” and “commercial establishments,” defining scope for service sector coverage.
+
+It fixes daily/weekly work limits, interval for rest, spread-over, and weekly holidays to prevent overwork.
+
+Overtime is regulated and must be compensated at prescribed rates subject to limits.
+
+It provides annual leave with wages subject to qualifying service and accumulation rules.
+
+Wage-related provisions ensure payment discipline and protect workers from arbitrary deductions/withholding (in coordination with central wage laws).
+
+It restricts employment of children and regulates employment conditions for women (hours/safety measures as applicable).
+
+It mandates maintenance of registers, notices, and compliance documentation for enforceability.
+
+Authorities/Inspectors can enter, inspect records, and initiate prosecution; penalties deter violations.
+
+The Act is interpreted beneficially to cover service-oriented workplaces as “shops” where services are sold.
+
+Modern debates in Karnataka include proposals around increasing daily work hours; exam answers should emphasise protective rationale of hours regulation.
+
+Judicial decisions also consider coverage/classification disputes under “commercial establishment.”
+
+The Act thus provides minimum labour standards to the non-factory urban workforce.
+
+5) Case laws (5)
+
+Airfreight Ltd. v. State of Karnataka (1999), (1999) 6 SCC 567 : AIR 1999 SC 2459 (coverage “shop/commercial establishment” context).
+
+Som Mittal v. Government of Karnataka (2008), (2008) 3 SCC 574 (prosecution/competent authority context).
+
+Thimmappa Rai v. Presiding Officer, Labour Court, Mangalore (1976), W.P. No. 1367/1974 (Karn HC) (Karnataka Shops Act dispute context).
+
+Hindu Jea Band v. Regional Director, ESI (1987), (1987) 2 SCC 516 (broad meaning of “shop” – service sale).
+
+ESI Corp. v. R.K. Swamy (1994), (1994) 1 SCC 445 (beneficial interpretation of “shop” concept).
+
+6) Conclusion
+
+The Karnataka Shops Act brings welfare regulation to the service sector via hours, leave, and protections.
+
+Enforcement through inspectors/penalties is essential to prevent paper compliance.
+
+It remains crucial as service work expands and working-hours debates intensify.
+
+Q15) Effects of Globalisation/Privatisation/Open Economy on labour; welfare state mandate; effectiveness of social security laws; legislative/judicial response (SEZs etc.)
+1) Synopsis
+
+Globalisation and privatisation increase competitiveness and flexibility but often intensify informalisation, outsourcing, and wage insecurity, challenging classical labour protections. The constitutional welfare mandate requires recalibrating labour law to preserve minimum standards, social security, and dignity.
+
+2) Introduction
+
+New economic policy reshaped labour markets via contractualisation and restructuring.
+
+Gains: productivity, investment, technology; Costs: insecurity and weakened collective bargaining.
+
+Labour law response involves reform, compliance rationalisation, and welfare reinforcement.
+
+3) Laws/Statutes
+
+Constitution: Articles 38, 39(e), 41, 42, 43, 43A.
+
+Social security laws: EPF/ESI/Gratuity/Maternity + unorganised sector framework.
+
+Sector-specific frameworks: SEZ policy context; state labour flexibility debates.
+
+4) Answer body
+
+Globalisation increases pressure to reduce labour cost, leading to contract labour, outsourcing, and gig-like arrangements.
+
+Privatisation/disinvestment changes employer identity and can affect job security and service conditions.
+
+Informalisation reduces access to PF/ESI and increases vulnerability to wage theft and unsafe work.
+
+Welfare-state mandate demands that economic reforms do not dilute minimum human standards.
+
+Constitutional principles require balancing Article 19(1)(g) business freedom with labour welfare restrictions.
+
+Social security laws become more important: PF/ESI/gratuity/maternity act as minimum protective floors.
+
+Judicial response generally preserves welfare interpretation and dignity; courts resist exploitative practices masked as contracts.
+
+Policy response includes debates on labour codes, ease of doing business, and simplifying compliance while protecting core rights.
+
+SEZ-style models raise concerns of exemptions/relaxation; constitutional scrutiny focuses on non-arbitrariness and dignity.
+
+Industrial relations shift from collective bargaining to individualised contracts, weakening worker voice—hence relevance of Article 43A ideals.
+
+Key challenge: ensuring coverage for unorganised and migrant workers in liberalised markets.
+
+Effectiveness depends on enforcement capacity, inspection reforms, portability of benefits, and social insurance expansion.
+
+5) Case laws (5)
+
+BALCO Employees’ Union v. Union of India (2002), (2002) 2 SCC 333 (privatisation/disinvestment policy and labour concerns).
+
+Steel Authority of India Ltd. v. National Union Waterfront Workers (2001), (2001) 7 SCC 1 (contract labour—modern outsourcing).
+
+Olga Tellis v. Bombay Municipal Corporation (1985), 1985 SCC (3) 545 (livelihood and welfare lens).
+
+People’s Union for Democratic Rights v. Union of India (1982), (1982) 3 SCC 235 (minimum wage/forced labour baseline).
+
+Consumer Education & Research Centre v. Union of India (1995), 1995 SCC (3) 42 (health and dignity of workers).
+
+6) Conclusion
+
+Globalisation improves efficiency but can deepen inequality unless labour welfare floors are protected.
+
+The Constitution obligates the State to ensure dignity-based social security even in open markets.
+
+Law must evolve to cover new work forms while preserving core protections and effective enforcement.
