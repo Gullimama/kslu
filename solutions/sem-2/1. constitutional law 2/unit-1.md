@@ -23,75 +23,6 @@ Arts. 256–263 (administrative relations; directions; Inter-State Council)
 
 4) Answer body (10–12 points)
 
-India is a Union of States (Art. 1): States are constitutionally created units; Parliament can reorganize States (Art. 3), showing Centre strength.
-
-Legislative relations rest on Arts. 245–255 and the Seventh Schedule: Union and States legislate within their fields; Concurrent List allows both.
-
-Doctrine of repugnancy (Art. 254) ensures Union law prevails in Concurrent matters unless State law has President’s assent (Art. 254(2)).
-
-Centre has “residuary power” (Entry 97, Union List) and can legislate in State field during emergency / national interest / consent mechanisms (e.g., Arts. 249, 250, 252).
-
-Financial relations: major taxes are assigned/distributed; Finance Commission (Art. 280) recommends tax devolution and grants to ensure fiscal balance.
-
-Centre exercises control through grants (Arts. 275, 282) and centrally-sponsored schemes—creating functional interdependence.
-
-Administrative relations: States must comply with Union laws; Union can issue directions to ensure compliance (Arts. 256–257).
-
-Certain subjects require All-India Services (Art. 312) to maintain uniform administration and national standards.
-
-Inter-State coordination: disputes go to Supreme Court (Art. 131); Inter-State Council (Art. 263) supports cooperative decision-making.
-
-Federalism in India is dynamic: it aims at national integrity while allowing regional governance through constitutionally structured autonomy.
-
-Judicial review protects federal balance by checking both Union overreach and State deviation.
-
-Thus, India operates a cooperative, integrated federal system with constitutional distribution and Centre-tilt safeguards.
-
-5) Case laws (5 with year & reference numbers)
-
-S.R. Bommai v. Union of India (1994) — (1994) 3 SCC 1
-
-State of West Bengal v. Union of India (1963) — AIR 1963 SC 1241; (1964) 1 SCR 371
-
-State of Rajasthan v. Union of India (1977) — (1977) 3 SCC 592
-
-Union of India v. H.S. Dhillon (1972) — (1972) 2 SCC 33 (residuary power)
-
-Kesavananda Bharati v. State of Kerala (1973) — (1973) 4 SCC 225
-
-6) Conclusion (3 points)
-
-Indian federalism is constitutionally federal but functionally Centre-strong.
-
-Legislative, financial, and administrative arrangements ensure unity with workable autonomy.
-
-Courts preserve the federal balance as part of the constitutional framework.
-
-Q2. Critically examine Co-operative Federalism. Discuss Freedom of Trade & Commerce and Official Language with case laws.
-
-1) Synopsis
-Co-operative federalism reflects shared governance, where Union and States coordinate to achieve constitutional goals. Part XIII protects economic unity through free trade, subject to reasonable regulatory/tax exceptions.
-
-2) Introduction
-
-Co-operation is necessary because governance problems are inter-jurisdictional (finance, infrastructure, welfare).
-
-The Constitution embeds co-operation via councils, commissions, and fiscal devolution.
-
-Economic unity is protected by Part XIII (Arts. 301–307).
-
-3) Laws/Statutes
-
-Arts. 263, 280 (Inter-State Council; Finance Commission)
-
-Arts. 301–307 (trade, commerce & intercourse)
-
-Arts. 343–351 (Official language; linguistic safeguards)
-
-Art. 256–257 (administrative coordination)
-
-4) Answer body
-
 A) Legislative Relations (5 high-scoring points)
 
 Distribution of legislative competence is constitutionally done through Arts. 245–246 read with the Seventh Schedule (Union/State/Concurrent Lists), creating a limited government by subject-matter allocation.
@@ -136,8 +67,6 @@ Inter-State Council (Art. 263) institutionalises consultation and coordination, 
 
 For inter-governmental disputes, the Constitution provides judicial resolution through original jurisdiction of the Supreme Court (Art. 131), reinforcing that federal relations are legal/constitutional, not merely political.
 
-5) Case laws
-
 Case Laws (5) — one-line ratio + relevance to above answer
 
 State of West Bengal v. Union of India (1963) AIR 1963 SC 1241; (1964) 1 SCR 371
@@ -154,6 +83,71 @@ Atiabari Tea Co. v. State of Assam (1961) AIR 1961 SC 232; (1961) 1 SCR 809
 
 State of Rajasthan v. Union of India (1977) 3 SCC 592
 → Discussed limits and review of Centre’s role in State governance and the political–constitutional boundary, supporting Administrative relations and the Centre–State tension under constitutional structure.
+
+6) Conclusion (3 points)
+
+Indian federalism is constitutionally federal but functionally Centre-strong.
+
+Legislative, financial, and administrative arrangements ensure unity with workable autonomy.
+
+Courts preserve the federal balance as part of the constitutional framework.
+
+Q2. Critically examine Co-operative Federalism. Discuss Freedom of Trade & Commerce and Official Language with case laws.
+
+1) Synopsis
+Co-operative federalism reflects shared governance, where Union and States coordinate to achieve constitutional goals. Part XIII protects economic unity through free trade, subject to reasonable regulatory/tax exceptions.
+
+2) Introduction
+
+Co-operation is necessary because governance problems are inter-jurisdictional (finance, infrastructure, welfare).
+
+The Constitution embeds co-operation via councils, commissions, and fiscal devolution.
+
+Economic unity is protected by Part XIII (Arts. 301–307).
+
+3) Laws/Statutes
+
+Arts. 263, 280 (Inter-State Council; Finance Commission)
+
+Arts. 301–307 (trade, commerce & intercourse)
+
+Arts. 343–351 (Official language; linguistic safeguards)
+
+Art. 256–257 (administrative coordination)
+
+4) Answer body
+
+Co-operative federalism means non-competitive, coordinated exercise of powers to achieve constitutional governance.
+
+It is implemented via Finance Commission devolution, GST-type harmonisation, planning/implementation coordination, and inter-state forums.
+
+The Centre’s dominance risks turning co-operation into centralisation by conditional funding; thus, co-operation must remain consultative, not coercive.
+
+Art. 301 guarantees freedom of trade/commerce/intercourse across India—core to economic integration.
+
+Restrictions are allowed: Parliament (Art. 302) can impose restrictions in public interest; States (Art. 304) can impose reasonable restrictions and non-discriminatory taxes (subject to constitutional conditions).
+
+The key judicial distinction: a direct and immediate restriction on trade violates Art. 301 unless saved; regulatory measures facilitating trade are permissible.
+
+Compensatory/regulatory taxes have been judicially tested to protect free flow while allowing fiscal needs.
+
+Official language scheme balances national link language with linguistic federalism: Hindi in Devanagari + continued use of English as provided, and state autonomy for official purposes.
+
+Arts. 350A/350B protect linguistic minorities, strengthening cooperative unity without cultural suppression.
+
+Thus, co-operative federalism + Part XIII + language provisions together secure unity, mobility, and pluralism.
+
+5) Case laws
+
+Atiabari Tea Co. v. State of Assam (1961) — AIR 1961 SC 232; (1961) 1 SCR 809
+
+Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962) — AIR 1962 SC 1406; (1963) 1 SCR 491
+
+Jindal Stainless Ltd. v. State of Haryana (2016) — (2016) 11 SCC 1
+
+S.R. Bommai v. Union of India (1994) — (1994) 3 SCC 1
+
+T.M.A. Pai Foundation v. State of Karnataka (2002) — (2002) 8 SCC 481 (pluralism/linguistic rights context)
 
 6) Conclusion
 
